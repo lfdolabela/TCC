@@ -1,658 +1,658 @@
 ,Nome,Classe,"Data do Bal
  Mais recente
  consolid:sim*","Setor NAICS
-ult disponiv",CÛdigo,"Ativo /
+ult disponiv",Sigla,"Ativo /
 Cancelado",CNPJ,"Segmento listagem
 Bovespa"
-1,2w Energia S/A,ON,31/03/2021,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,25224 ON,ativo,08.773.135/0001-00,-
-2,3r Petroleum,ON,31/12/2020,ExtraÁ„o de petrÛleo e g·s,RRRP3,ativo,12.091.809/0001-55,Novo Mercado
-3,521 Particip,ON,31/03/2015,AdministraÁ„o de empresas e empreendimentos,QVUM3B,cancelado,01.547.749/0001-16,-
-4,524 Particip,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,QVQP3B,ativo,01.851.771/0001-55,Balc„o Organizado
-5,Aajr Sec de Cred Imobili·rios S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24732 ON,ativo,31.907.982/0001-23,-
-6,Abc Brasil,PN,31/12/2020,Bancos,ABCB4,ativo,28.195.667/0001-06,NÌvel 2
-7,Aco Altona,PN,31/12/2020,TransformaÁ„o de aÁo em produtos de aÁo,EALT4,ativo,82.643.537/0001-34,Tradicional
-8,Advanced-Dh,ON,30/09/2019,ComÈrcio atacadista de bens n„o dur·veis variados,ADHM3,cancelado,10.345.009/0001-98,Tradicional
-9,Aegea Saneamento e Part S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,23396 ON,ativo,08.827.501/0001-58,-
-10,Aerisenergia,ON,31/12/2020,Ind˙stria de motores  turbinas e transmissores de energia,AERI3,ativo,12.528.708/0001-07,Novo Mercado
-11,AES Brasil,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,AESB3,ativo,37.663.076/0001-07,Novo Mercado
-12,AES Sul,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,AESL3,cancelado,02.016.440/0001-62,-
-13,AES TietÍ Energia S/A,ON,-,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,18970 ON,ativo,04.128.563/0001-10,-
-14,Afluente T,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,AFLT3,ativo,10.338.320/0001-00,Tradicional
-15,Agb Casa de Pedra Sec de CrÈdito S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24643 ON,ativo,31.468.139/0001-98,-
-16,Agrogalaxy ParticipaÁıes S/A,ON,31/12/2020,Atividades auxiliares ‡ agricultura,25658 ON,ativo,21.240.146/0001-84,-
-17,¡guas de Santa Teresina Saneameno Spe S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,25615 ON,ativo,27.157.474/0001-06,-
-18,Aguas Guariroba SA,ON,31/12/2020,¡gua  esgoto e outros sistemas,23442 ON,ativo,04.089.570/0001-50,-
-19,Alef S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,ALEF3B,ativo,02.217.319/0001-07,Balc„o Organizado
-20,Alfa Consorc,PNF,31/12/2020,AdministraÁ„o de empresas e empreendimentos,BRGE12,ativo,17.193.806/0001-46,Tradicional
+1,2w Energia S/A,ON,31/03/2021,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,25224 ON,ativo,08.773.135/0001-00,-
+2,3r Petroleum,ON,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,RRRP3,ativo,12.091.809/0001-55,Novo Mercado
+3,521 Particip,ON,31/03/2015,Administra√ß√£o de empresas e empreendimentos,QVUM3B,cancelado,01.547.749/0001-16,-
+4,524 Particip,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,QVQP3B,ativo,01.851.771/0001-55,Balc√£o Organizado
+5,Aajr Sec de Cred Imobili√°rios S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24732 ON,ativo,31.907.982/0001-23,-
+6,Abc Brasil,PN,31/12/2020,Bancos,ABCB4,ativo,28.195.667/0001-06,N√≠vel 2
+7,Aco Altona,PN,31/12/2020,Transforma√ß√£o de a√ßo em produtos de a√ßo,EALT4,ativo,82.643.537/0001-34,Tradicional
+8,Advanced-Dh,ON,30/09/2019,Com√©rcio atacadista de bens n√£o dur√°veis variados,ADHM3,cancelado,10.345.009/0001-98,Tradicional
+9,Aegea Saneamento e Part S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,23396 ON,ativo,08.827.501/0001-58,-
+10,Aerisenergia,ON,31/12/2020,Ind√∫stria de motores  turbinas e transmissores de energia,AERI3,ativo,12.528.708/0001-07,Novo Mercado
+11,AES Brasil,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,AESB3,ativo,37.663.076/0001-07,Novo Mercado
+12,AES Sul,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,AESL3,cancelado,02.016.440/0001-62,-
+13,AES Tiet√™ Energia S/A,ON,-,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,18970 ON,ativo,04.128.563/0001-10,-
+14,Afluente T,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,AFLT3,ativo,10.338.320/0001-00,Tradicional
+15,Agb Casa de Pedra Sec de Cr√©dito S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24643 ON,ativo,31.468.139/0001-98,-
+16,Agrogalaxy Participa√ß√µes S/A,ON,31/12/2020,Atividades auxiliares √† agricultura,25658 ON,ativo,21.240.146/0001-84,-
+17,√Åguas de Santa Teresina Saneameno Spe S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,25615 ON,ativo,27.157.474/0001-06,-
+18,Aguas Guariroba SA,ON,31/12/2020,√Ågua  esgoto e outros sistemas,23442 ON,ativo,04.089.570/0001-50,-
+19,Alef S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,ALEF3B,ativo,02.217.319/0001-07,Balc√£o Organizado
+20,Alfa Consorc,PNF,31/12/2020,Administra√ß√£o de empresas e empreendimentos,BRGE12,ativo,17.193.806/0001-46,Tradicional
 21,Alfa Financ,ON,31/12/2020,Bancos,CRIV3,ativo,17.167.412/0001-13,Tradicional
-22,Alfa Holding,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,RPAD3,ativo,17.167.396/0001-69,Tradicional
+22,Alfa Holding,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,RPAD3,ativo,17.167.396/0001-69,Tradicional
 23,Alfa Invest,ON,31/12/2020,Bancos,BRIV3,ativo,60.770.336/0001-65,Tradicional
-24,Alfa Medicamentos S/A,ON,31/12/2020,Ind˙stria de remÈdios,25348 ON,ativo,09.053.134/0001-45,-
-25,Algar Telecom S/A,ON,31/12/2020,TelecomunicaÁıes,21032 ON,ativo,71.208.516/0001-74,-
-26,Alianscsonae,ON,31/12/2020,Locadora de imÛveis,ALSO3,ativo,05.878.397/0001-32,Novo Mercado
-27,Aliperti,PN,31/12/2020,Ind˙stria de molas e produtos de arame,APTI4,ativo,61.156.931/0001-78,Tradicional
-28,All Am Lat Log Oeste S/A,ON,31/12/2020,Transporte ferrovi·rio,17850 ON,ativo,39.115.514/0001-28,-
-29,All Norte,ON,31/12/2020,Transporte ferrovi·rio,FRRN3B,ativo,24.962.466/0001-36,Balc„o Organizado
-30,Alliar,ON,31/12/2020,LaboratÛrio de exames mÈdicos,AALR3,ativo,42.771.949/0001-35,Novo Mercado
-31,Allied,ON,31/12/2020,Loja de utensÌlios eletrÙnicos,ALLD3,ativo,20.247.322/0001-47,Novo Mercado
-32,Alpargatas,PN,31/12/2020,Ind˙stria de calÁados,ALPA4,ativo,61.079.117/0001-05,NÌvel 1
+24,Alfa Medicamentos S/A,ON,31/12/2020,Ind√∫stria de rem√©dios,25348 ON,ativo,09.053.134/0001-45,-
+25,Algar Telecom S/A,ON,31/12/2020,Telecomunica√ß√µes,21032 ON,ativo,71.208.516/0001-74,-
+26,Alianscsonae,ON,31/12/2020,Locadora de im√≥veis,ALSO3,ativo,05.878.397/0001-32,Novo Mercado
+27,Aliperti,PN,31/12/2020,Ind√∫stria de molas e produtos de arame,APTI4,ativo,61.156.931/0001-78,Tradicional
+28,All Am Lat Log Oeste S/A,ON,31/12/2020,Transporte ferrovi√°rio,17850 ON,ativo,39.115.514/0001-28,-
+29,All Norte,ON,31/12/2020,Transporte ferrovi√°rio,FRRN3B,ativo,24.962.466/0001-36,Balc√£o Organizado
+30,Alliar,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,AALR3,ativo,42.771.949/0001-35,Novo Mercado
+31,Allied,ON,31/12/2020,Loja de utens√≠lios eletr√¥nicos,ALLD3,ativo,20.247.322/0001-47,Novo Mercado
+32,Alpargatas,PN,31/12/2020,Ind√∫stria de cal√ßados,ALPA4,ativo,61.079.117/0001-05,N√≠vel 1
 33,Alper S.A.,ON,31/12/2020,Corretora de seguros,APER3,ativo,11.721.921/0001-60,Novo Mercado
-34,Alphaville,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,AVLL3,ativo,16.811.931/0001-00,Novo Mercado
+34,Alphaville,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,AVLL3,ativo,16.811.931/0001-00,Novo Mercado
 35,Altere Sec,ON,31/12/2020,Outros fundos,ALTR3,cancelado,02.783.423/0001-50,-
-36,Alupar,UNT N2,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ALUP11,ativo,08.364.948/0001-38,NÌvel 2
+36,Alupar,UNT N2,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ALUP11,ativo,08.364.948/0001-38,N√≠vel 2
 37,Amazonia,ON,31/12/2020,Bancos,BAZA3,ativo,04.902.979/0001-44,Tradicional
-38,Ambev S/A,ON,31/12/2020,Ind˙stria de bebidas,ABEV3,ativo,07.526.557/0001-00,Tradicional
-39,Ambipar,ON,31/12/2020,¡gua  esgoto e outros sistemas,AMBP3,ativo,12.648.266/0001-24,Novo Mercado
-40,Ampla Energ,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CBEE3,ativo,33.050.071/0001-58,Tradicional
+38,Ambev S/A,ON,31/12/2020,Ind√∫stria de bebidas,ABEV3,ativo,07.526.557/0001-00,Tradicional
+39,Ambipar,ON,31/12/2020,√Ågua  esgoto e outros sistemas,AMBP3,ativo,12.648.266/0001-24,Novo Mercado
+40,Ampla Energ,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CBEE3,ativo,33.050.071/0001-58,Tradicional
 41,Anima,ON,31/12/2020,Escola de ensino superior,ANIM3,ativo,09.288.252/0001-32,Novo Mercado
-42,Apice Securitizadora Imob S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22276 ON,ativo,12.130.744/0001-00,-
-43,Arezzo Co,ON,31/12/2020,Ind˙stria de calÁados,ARZZ3,ativo,16.590.234/0001-76,Novo Mercado
-44,Argo Energia Empreend e Part S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,24120 ON,ativo,24.624.551/0001-94,-
-45,Argo Transmiss„o de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24210 ON,ativo,24.624.490/0001-65,-
-46,Arteris,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,ARTR3,cancelado,02.919.555/0001-67,Tradicional
+42,Apice Securitizadora Imob S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22276 ON,ativo,12.130.744/0001-00,-
+43,Arezzo Co,ON,31/12/2020,Ind√∫stria de cal√ßados,ARZZ3,ativo,16.590.234/0001-76,Novo Mercado
+44,Argo Energia Empreend e Part S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,24120 ON,ativo,24.624.551/0001-94,-
+45,Argo Transmiss√£o de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24210 ON,ativo,24.624.490/0001-65,-
+46,Arteris,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,ARTR3,cancelado,02.919.555/0001-67,Tradicional
 47,Assai,ON,31/12/2020,Loja de departamentos,ASAI3,ativo,06.057.223/0001-71,Novo Mercado
-48,Atmasa,ON,31/12/2020,ServiÁos de apoio a empresas,ATMP3,ativo,04.032.433/0001-80,Novo Mercado
-49,Atompar,ON,31/12/2020,TelecomunicaÁıes,ATOM3,ativo,00.359.742/0001-08,Tradicional
-50,Aura 360,ON,31/12/2020,MineraÁ„o de metais,AURA33,ativo,07.857.093/0001-14,BDR nÌvel 3
-51,Autoban - Conc do Sist Anhanguera Bandeirantes S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,20192 ON,ativo,02.451.848/0001-62,-
-52,Autopista Fernao Dias S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21989 ON,ativo,09.326.342/0001-70,-
-53,Autopista Fluminense S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22004 ON,ativo,09.324.949/0001-11,-
-54,Autopista Litoral Sul,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21997 ON,ativo,09.313.969/0001-97,-
-55,Autopista Planalto Sul S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21970 ON,ativo,09.325.109/0001-73,-
-56,Autopista Regis Bittencourt S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21962 ON,ativo,09.336.431/0001-06,-
-57,Azevedo,PN,31/12/2020,Outras construÁıes pesadas e de engenharia civil,AZEV4,ativo,61.351.532/0001-68,Tradicional
-58,Azul S.A.,PN,31/12/2020,Transporte aÈreo regular,AZUL4,ativo,09.305.994/0001-29,NÌvel 2
-59,B2W Digital,ON,31/12/2020,Vendas por correio ou meio eletrÙnico,BTOW3,ativo,00.776.574/0001-56,Novo Mercado
+48,Atmasa,ON,31/12/2020,Servi√ßos de apoio a empresas,ATMP3,ativo,04.032.433/0001-80,Novo Mercado
+49,Atompar,ON,31/12/2020,Telecomunica√ß√µes,ATOM3,ativo,00.359.742/0001-08,Tradicional
+50,Aura 360,ON,31/12/2020,Minera√ß√£o de metais,AURA33,ativo,07.857.093/0001-14,BDR n√≠vel 3
+51,Autoban - Conc do Sist Anhanguera Bandeirantes S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,20192 ON,ativo,02.451.848/0001-62,-
+52,Autopista Fernao Dias S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21989 ON,ativo,09.326.342/0001-70,-
+53,Autopista Fluminense S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22004 ON,ativo,09.324.949/0001-11,-
+54,Autopista Litoral Sul,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21997 ON,ativo,09.313.969/0001-97,-
+55,Autopista Planalto Sul S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21970 ON,ativo,09.325.109/0001-73,-
+56,Autopista Regis Bittencourt S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21962 ON,ativo,09.336.431/0001-06,-
+57,Azevedo,PN,31/12/2020,Outras constru√ß√µes pesadas e de engenharia civil,AZEV4,ativo,61.351.532/0001-68,Tradicional
+58,Azul S.A.,PN,31/12/2020,Transporte a√©reo regular,AZUL4,ativo,09.305.994/0001-29,N√≠vel 2
+59,B2W Digital,ON,31/12/2020,Vendas por correio ou meio eletr√¥nico,BTOW3,ativo,00.776.574/0001-56,Novo Mercado
 60,B3,ON,31/12/2020,Bolsa de valores e commodities,B3SA3,ativo,09.346.601/0001-25,Novo Mercado
-61,Bahema,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,BAHI3,ativo,45.987.245/0001-92,Bovespa Mais
-62,Banco BMG,PN,31/12/2020,Bancos,BMGB4,ativo,61.186.680/0001-74,NÌvel 1
-63,Banco Inter,UNT,31/12/2020,Bancos,BIDI11,ativo,00.416.968/0001-01,NÌvel 2
-64,Banco Pan,PN,31/12/2020,Bancos,BPAN4,ativo,59.285.411/0001-13,NÌvel 1
-65,Banco Rci Brasil S/A,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,21466 ON,ativo,62.307.848/0001-15,-
-66,Bandeirante Energ,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EBEN4,cancelado,02.302.100/0001-06,-
+61,Bahema,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,BAHI3,ativo,45.987.245/0001-92,Bovespa Mais
+62,Banco BMG,PN,31/12/2020,Bancos,BMGB4,ativo,61.186.680/0001-74,N√≠vel 1
+63,Banco Inter,UNT,31/12/2020,Bancos,BIDI11,ativo,00.416.968/0001-01,N√≠vel 2
+64,Banco Pan,PN,31/12/2020,Bancos,BPAN4,ativo,59.285.411/0001-13,N√≠vel 1
+65,Banco Rci Brasil S/A,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,21466 ON,ativo,62.307.848/0001-15,-
+66,Bandeirante Energ,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EBEN4,cancelado,02.302.100/0001-06,-
 67,Banese,PN,31/12/2020,Bancos,BGIP4,ativo,13.009.717/0001-46,Tradicional
 68,Banestes,ON,31/12/2020,Bancos,BEES3,ativo,28.127.603/0001-78,Tradicional
 69,Banpara,ON,31/12/2020,Bancos,BPAR3,ativo,04.913.711/0001-08,Tradicional
-70,Banrisul,PNB,31/12/2020,Bancos,BRSR6,ativo,92.702.067/0001-96,NÌvel 1
-71,Banrisul Armazens Gerais S/A,ON,31/12/2020,ServiÁo de armazenamento,15822 ON,ativo,92.721.232/0001-57,-
-72,Banrisul Cartıes S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24554 ON,ativo,92.934.215/0001-06,-
-73,Bardella,ON,31/12/2020,Industria de m·quinas agrÌcolas  de construÁ„o e mineraÁ„o,BDLL3,ativo,60.851.615/0001-53,Tradicional
-74,Barigui Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,21920 ON,ativo,10.608.405/0001-60,-
-75,Base Securitizadora de Cred Imob SA,ON,31/12/2020,ServiÁos financeiros e seguros,24970 ON,ativo,35.082.277/0001-95,-
-76,Battistella,ON,31/12/2020,Concession·rias de outros veÌculos motorizados,BTTL3,ativo,42.331.462/0001-31,Tradicional
-77,Baumer,PN,31/12/2020,Ind˙stria de equipamentos e materiais para uso mÈdico,BALM4,ativo,61.374.161/0001-30,Tradicional
-78,Bbmlogistica,ON,31/12/2020,Transporte rodovi·rio,BBML3,ativo,01.107.327/0001-20,Bovespa Mais
+70,Banrisul,PNB,31/12/2020,Bancos,BRSR6,ativo,92.702.067/0001-96,N√≠vel 1
+71,Banrisul Armazens Gerais S/A,ON,31/12/2020,Servi√ßo de armazenamento,15822 ON,ativo,92.721.232/0001-57,-
+72,Banrisul Cart√µes S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24554 ON,ativo,92.934.215/0001-06,-
+73,Bardella,ON,31/12/2020,Industria de m√°quinas agr√≠colas  de constru√ß√£o e minera√ß√£o,BDLL3,ativo,60.851.615/0001-53,Tradicional
+74,Barigui Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,21920 ON,ativo,10.608.405/0001-60,-
+75,Base Securitizadora de Cred Imob SA,ON,31/12/2020,Servi√ßos financeiros e seguros,24970 ON,ativo,35.082.277/0001-95,-
+76,Battistella,ON,31/12/2020,Concession√°rias de outros ve√≠culos motorizados,BTTL3,ativo,42.331.462/0001-31,Tradicional
+77,Baumer,PN,31/12/2020,Ind√∫stria de equipamentos e materiais para uso m√©dico,BALM4,ativo,61.374.161/0001-30,Tradicional
+78,Bbmlogistica,ON,31/12/2020,Transporte rodovi√°rio,BBML3,ativo,01.107.327/0001-20,Bovespa Mais
 79,BBSeguridade,ON,31/12/2020,Seguradora,BBSE3,ativo,17.344.597/0001-94,Novo Mercado
-80,Bcbf ParticipaÁıes SA,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,24775 ON,ativo,19.276.528/0001-16,-
+80,Bcbf Participa√ß√µes SA,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,24775 ON,ativo,19.276.528/0001-16,-
 81,Bemobi Tech,ON,31/12/2020,Editoras de software,BMOB3,ativo,09.042.817/0001-05,Novo Mercado
-82,Betapart,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,BETP3B,ativo,02.762.124/0001-30,Balc„o Organizado
-83,Biam Cia Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23019 ON,ativo,14.333.683/0001-03,-
-84,Bic Arrend Mercantil S/A,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,15121 ON,ativo,69.720.910/0001-45,-
-85,Bic Monark,ON,31/12/2020,Ind˙stria de outros equipamentos de transporte,BMKS3,ativo,56.992.423/0001-90,Tradicional
-86,Biomm,ON,31/12/2020,Pesquisa cientÌfica,BIOM3,ativo,04.752.991/0001-10,Bovespa Mais
-87,Biosev,ON,31/12/2020,Outras outras ind˙strias,BSEV3,ativo,15.527.906/0001-36,Novo Mercado
-88,Biotoscana,ON,30/06/2020,Ind˙stria de remÈdios,GBIO33,cancelado,19.688.956/0001-56,BDR nÌvel 3
+82,Betapart,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,BETP3B,ativo,02.762.124/0001-30,Balc√£o Organizado
+83,Biam Cia Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23019 ON,ativo,14.333.683/0001-03,-
+84,Bic Arrend Mercantil S/A,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,15121 ON,ativo,69.720.910/0001-45,-
+85,Bic Monark,ON,31/12/2020,Ind√∫stria de outros equipamentos de transporte,BMKS3,ativo,56.992.423/0001-90,Tradicional
+86,Biomm,ON,31/12/2020,Pesquisa cient√≠fica,BIOM3,ativo,04.752.991/0001-10,Bovespa Mais
+87,Biosev,ON,31/12/2020,Outras outras ind√∫strias,BSEV3,ativo,15.527.906/0001-36,Novo Mercado
+88,Biotoscana,ON,30/06/2020,Ind√∫stria de rem√©dios,GBIO33,cancelado,19.688.956/0001-56,BDR n√≠vel 3
 89,Bk Brasil,ON,31/12/2020,Restaurantes e outros lugares para comer,BKBR3,ativo,13.574.594/0001-96,Novo Mercado
-90,Blau,ON,31/12/2020,Ind˙stria de remÈdios,BLAU3,ativo,58.430.828/0001-60,Novo Mercado
-91,BNDES ParticipaÁıes S/A - Bndespar,ON,31/12/2020,InstituiÁ„o de intermediaÁ„o de crÈdito e atividades relacionadas,16772 ON,ativo,00.383.281/0001-09,-
-92,Boa Safra Sementes S/A,ON,31/12/2020,Atividades auxiliares ‡ agricultura,25704 ON,ativo,10.807.374/0001-77,-
-93,Boa Vista,ON,31/12/2020,Outros serviÁos de InformaÁ„o,BOAS3,ativo,11.725.176/0001-27,Novo Mercado
-94,Bombril,PN,31/12/2020,Ind˙stria de artigos de limpeza,BOBR4,ativo,50.564.053/0001-03,Tradicional
-95,Bonaire Part,ON,30/09/2018,Empresa de eletricidade  g·s e ·gua,BNPA3B,cancelado,02.117.801/0001-67,Balc„o Organizado
-96,BR Brokers,ON,31/12/2020,Atividades relacionadas a imÛveis,BBRK3,ativo,08.613.550/0001-98,Novo Mercado
-97,BR Malls Par,ON,31/12/2020,Locadora de imÛveis,BRML3,ativo,06.977.745/0001-91,Novo Mercado
-98,BR Pharma,ON,31/03/2019,Loja de artigos para sa˙de e cuidados pessoais,BPHA3,cancelado,11.395.624/0001-71,Novo Mercado
-99,BR Propert,ON,31/12/2020,Locadora de imÛveis,BRPR3,ativo,06.977.751/0001-49,Novo Mercado
-100,Bradesco,PN,31/12/2020,Bancos,BBDC4,ativo,60.746.948/0001-12,NÌvel 1
-101,Bradesco Leasing SA,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,19640 ON,ativo,47.509.120/0001-82,-
-102,Bradespar,PN,31/12/2020,AdministraÁ„o de empresas e empreendimentos,BRAP4,ativo,03.847.461/0001-92,NÌvel 1
+90,Blau,ON,31/12/2020,Ind√∫stria de rem√©dios,BLAU3,ativo,58.430.828/0001-60,Novo Mercado
+91,BNDES Participa√ß√µes S/A - Bndespar,ON,31/12/2020,Institui√ß√£o de intermedia√ß√£o de cr√©dito e atividades relacionadas,16772 ON,ativo,00.383.281/0001-09,-
+92,Boa Safra Sementes S/A,ON,31/12/2020,Atividades auxiliares √† agricultura,25704 ON,ativo,10.807.374/0001-77,-
+93,Boa Vista,ON,31/12/2020,Outros servi√ßos de Informa√ß√£o,BOAS3,ativo,11.725.176/0001-27,Novo Mercado
+94,Bombril,PN,31/12/2020,Ind√∫stria de artigos de limpeza,BOBR4,ativo,50.564.053/0001-03,Tradicional
+95,Bonaire Part,ON,30/09/2018,Empresa de eletricidade  g√°s e √°gua,BNPA3B,cancelado,02.117.801/0001-67,Balc√£o Organizado
+96,BR Brokers,ON,31/12/2020,Atividades relacionadas a im√≥veis,BBRK3,ativo,08.613.550/0001-98,Novo Mercado
+97,BR Malls Par,ON,31/12/2020,Locadora de im√≥veis,BRML3,ativo,06.977.745/0001-91,Novo Mercado
+98,BR Pharma,ON,31/03/2019,Loja de artigos para sa√∫de e cuidados pessoais,BPHA3,cancelado,11.395.624/0001-71,Novo Mercado
+99,BR Propert,ON,31/12/2020,Locadora de im√≥veis,BRPR3,ativo,06.977.751/0001-49,Novo Mercado
+100,Bradesco,PN,31/12/2020,Bancos,BBDC4,ativo,60.746.948/0001-12,N√≠vel 1
+101,Bradesco Leasing SA,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,19640 ON,ativo,47.509.120/0001-82,-
+102,Bradespar,PN,31/12/2020,Administra√ß√£o de empresas e empreendimentos,BRAP4,ativo,03.847.461/0001-92,N√≠vel 1
 103,Brasil,ON,31/12/2020,Bancos,BBAS3,ativo,00.000.000/0001-91,Novo Mercado
-104,Brasil Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24287 ON,ativo,13.483.537/0001-00,-
+104,Brasil Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24287 ON,ativo,13.483.537/0001-00,-
 105,Brasilagro,ON,31/12/2020,Agricultura,AGRO3,ativo,07.628.528/0001-59,Novo Mercado
-106,Brasiliana ParticipaÁıes S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23930 ON,ativo,08.773.191/0001-36,-
-107,Braskem,PNA,31/12/2020,Ind˙stria quÌmica,BRKM5,ativo,42.150.391/0001-70,NÌvel 1
-108,Brazil Realty Cia Sec de Cred Imob,ON,31/12/2020,ServiÁos financeiros e seguros,19720 ON,ativo,07.119.838/0001-48,-
-109,Brazilian Fr,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,BFRE3,cancelado,02.762.113/0001-50,-
-110,Brazilian Securities Cia Sec,ON,31/12/2020,ServiÁos financeiros e seguros,18759 ON,ativo,03.767.538/0001-14,-
+106,Brasiliana Participa√ß√µes S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23930 ON,ativo,08.773.191/0001-36,-
+107,Braskem,PNA,31/12/2020,Ind√∫stria qu√≠mica,BRKM5,ativo,42.150.391/0001-70,N√≠vel 1
+108,Brazil Realty Cia Sec de Cred Imob,ON,31/12/2020,Servi√ßos financeiros e seguros,19720 ON,ativo,07.119.838/0001-48,-
+109,Brazilian Fr,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,BFRE3,cancelado,02.762.113/0001-50,-
+110,Brazilian Securities Cia Sec,ON,31/12/2020,Servi√ßos financeiros e seguros,18759 ON,ativo,03.767.538/0001-14,-
 111,BRB Banco,ON,31/12/2020,Bancos,BSLI3,ativo,00.000.208/0001-00,Tradicional
 112,BRF SA,ON,31/12/2020,Abatedouros,BRFS3,ativo,01.838.723/0001-27,Novo Mercado
-113,Brk Ambiental ParticipaÁıes S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,24830 ON,ativo,24.396.489/0001-20,-
+113,Brk Ambiental Participa√ß√µes S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,24830 ON,ativo,24.396.489/0001-20,-
 114,Brq,ON,31/12/2020,Editoras de software,BRQB3,ativo,36.542.025/0001-64,Bovespa Mais
-115,Bsi Capital Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23132 ON,ativo,11.257.352/0001-43,-
-116,Btgi Quartzo ParticipaÁıes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,23850 ON,ativo,21.948.105/0001-47,-
-117,Btgi Safira ParticipaÁıes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,23841 ON,ativo,21.976.510/0001-79,-
-118,Btgp Banco,UNT,31/12/2020,Bancos,BPAC11,ativo,30.306.294/0001-45,NÌvel 2
-119,Cabinda Part,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,CABI3B,ativo,04.030.182/0001-02,Balc„o Organizado
-120,Cachoeira Paulista Trans de Energia SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,22683 ON,ativo,05.336.882/0001-84,-
-121,Caconde Part,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,CACO3B,ativo,04.031.213/0001-31,Balc„o Organizado
-122,Caianda Part,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,CAIA3B,cancelado,04.038.763/0001-82,Balc„o Organizado
-123,Caixa Adm Div Pub Estadual S/A,ON,31/03/2021,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,15717 ON,ativo,00.979.969/0001-56,-
-124,Caixa Seguridade ParticipaÁıes S/A,ON,31/12/2020,Seguradora e corretora de seguros,23795 ON,ativo,22.543.331/0001-00,-
-125,Cambuci,ON,31/12/2020,Ind˙stria de calÁados,CAMB3,ativo,61.088.894/0001-08,Tradicional
-126,Camil,ON,30/11/2020,Outras ind˙strias de alimentos,CAML3,ativo,64.904.295/0001-03,Novo Mercado
-127,Capitale Securit de Credito S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23353 ON,ativo,15.229.110/0001-05,-
-128,Carbomil S/A Miner e Ind,ON,31/12/2020,ExtraÁ„o de minerais n„o met·licos,14168 ON,ativo,07.253.321/0001-47,-
+115,Bsi Capital Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23132 ON,ativo,11.257.352/0001-43,-
+116,Btgi Quartzo Participa√ß√µes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,23850 ON,ativo,21.948.105/0001-47,-
+117,Btgi Safira Participa√ß√µes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,23841 ON,ativo,21.976.510/0001-79,-
+118,Btgp Banco,UNT,31/12/2020,Bancos,BPAC11,ativo,30.306.294/0001-45,N√≠vel 2
+119,Cabinda Part,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,CABI3B,ativo,04.030.182/0001-02,Balc√£o Organizado
+120,Cachoeira Paulista Trans de Energia SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,22683 ON,ativo,05.336.882/0001-84,-
+121,Caconde Part,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,CACO3B,ativo,04.031.213/0001-31,Balc√£o Organizado
+122,Caianda Part,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,CAIA3B,cancelado,04.038.763/0001-82,Balc√£o Organizado
+123,Caixa Adm Div Pub Estadual S/A,ON,31/03/2021,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,15717 ON,ativo,00.979.969/0001-56,-
+124,Caixa Seguridade Participa√ß√µes S/A,ON,31/12/2020,Seguradora e corretora de seguros,23795 ON,ativo,22.543.331/0001-00,-
+125,Cambuci,ON,31/12/2020,Ind√∫stria de cal√ßados,CAMB3,ativo,61.088.894/0001-08,Tradicional
+126,Camil,ON,30/11/2020,Outras ind√∫strias de alimentos,CAML3,ativo,64.904.295/0001-03,Novo Mercado
+127,Capitale Securit de Credito S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23353 ON,ativo,15.229.110/0001-05,-
+128,Carbomil S/A Miner e Ind,ON,31/12/2020,Extra√ß√£o de minerais n√£o met√°licos,14168 ON,ativo,07.253.321/0001-47,-
 129,Carrefour BR,ON,31/12/2020,Loja de departamentos,CRFB3,ativo,75.315.333/0001-09,Novo Mercado
-130,Casan,ON,31/12/2020,¡gua  esgoto e outros sistemas,CASN3,ativo,82.508.433/0001-17,Tradicional
-131,CCR SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,CCRO3,ativo,02.846.056/0001-97,Novo Mercado
-132,Ccx Carvao,ON,31/03/2020,MineraÁ„o de metais,CCXC3,cancelado,07.950.674/0001-04,Novo Mercado
+130,Casan,ON,31/12/2020,√Ågua  esgoto e outros sistemas,CASN3,ativo,82.508.433/0001-17,Tradicional
+131,CCR SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,CCRO3,ativo,02.846.056/0001-97,Novo Mercado
+132,Ccx Carvao,ON,31/03/2020,Minera√ß√£o de metais,CCXC3,cancelado,07.950.674/0001-04,Novo Mercado
 133,Cea Modas,ON,31/12/2020,Loja de roupas,CEAB3,ativo,45.242.914/0001-05,Novo Mercado
-134,Ceb,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CEBR3,ativo,00.070.698/0001-11,Tradicional
-135,Cedae - Cia Estadual de Aguas e Esgotos,ON,31/12/2020,¡gua  esgoto e outros sistemas,16373 ON,ativo,33.352.394/0001-04,-
-136,Cedro,PN,31/12/2020,Tecelagens,CEDO4,ativo,17.245.234/0001-00,NÌvel 1
-137,Ceee-D,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,CEED3,ativo,08.467.115/0001-00,NÌvel 1
-138,Ceee-Gt,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EEEL3,ativo,92.715.812/0001-31,NÌvel 1
-139,Ceg,ON,31/12/2020,DistribuiÁ„o de g·s natural,CEGR3,ativo,33.938.119/0001-69,Tradicional
-140,Cel Participacoes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,16675 ON,ativo,02.201.787/0001-85,-
-141,Celeo Redes Transmiss„o de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24597 ON,ativo,31.001.230/0001-07,-
-142,Celesc,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CLSC4,ativo,83.878.892/0001-55,NÌvel 2
-143,Celg DistribuiÁ„o S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,25577 ON,ativo,01.543.032/0001-04,-
-144,Celgpar,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,GPAR3,ativo,08.560.444/0001-93,Tradicional
-145,Celpe,PNA,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CEPE5,ativo,10.835.932/0001-08,Tradicional
-146,Cemepe,PN,31/12/2020,AdministraÁ„o de empresas e empreendimentos,MAPT4,ativo,93.828.986/0001-73,Tradicional
-147,Cemig,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CMIG4,ativo,17.155.730/0001-64,NÌvel 1
-148,Cemig DistribuiÁ„o SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,20303 ON,ativo,06.981.180/0001-16,-
-149,Cemig GeraÁ„o e Transm SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,20320 ON,ativo,06.981.176/0001-58,-
-150,Cesp,PNB,31/03/2021,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CESP6,ativo,60.933.603/0001-78,NÌvel 1
+134,Ceb,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CEBR3,ativo,00.070.698/0001-11,Tradicional
+135,Cedae - Cia Estadual de Aguas e Esgotos,ON,31/12/2020,√Ågua  esgoto e outros sistemas,16373 ON,ativo,33.352.394/0001-04,-
+136,Cedro,PN,31/12/2020,Tecelagens,CEDO4,ativo,17.245.234/0001-00,N√≠vel 1
+137,Ceee-D,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,CEED3,ativo,08.467.115/0001-00,N√≠vel 1
+138,Ceee-Gt,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EEEL3,ativo,92.715.812/0001-31,N√≠vel 1
+139,Ceg,ON,31/12/2020,Distribui√ß√£o de g√°s natural,CEGR3,ativo,33.938.119/0001-69,Tradicional
+140,Cel Participacoes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,16675 ON,ativo,02.201.787/0001-85,-
+141,Celeo Redes Transmiss√£o de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24597 ON,ativo,31.001.230/0001-07,-
+142,Celesc,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CLSC4,ativo,83.878.892/0001-55,N√≠vel 2
+143,Celg Distribui√ß√£o S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,25577 ON,ativo,01.543.032/0001-04,-
+144,Celgpar,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,GPAR3,ativo,08.560.444/0001-93,Tradicional
+145,Celpe,PNA,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CEPE5,ativo,10.835.932/0001-08,Tradicional
+146,Cemepe,PN,31/12/2020,Administra√ß√£o de empresas e empreendimentos,MAPT4,ativo,93.828.986/0001-73,Tradicional
+147,Cemig,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CMIG4,ativo,17.155.730/0001-64,N√≠vel 1
+148,Cemig Distribui√ß√£o SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,20303 ON,ativo,06.981.180/0001-16,-
+149,Cemig Gera√ß√£o e Transm SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,20320 ON,ativo,06.981.176/0001-58,-
+150,Cesp,PNB,31/03/2021,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CESP6,ativo,60.933.603/0001-78,N√≠vel 1
 151,Chapeco,ON,31/12/2004,Abatedouros,CHAP3,cancelado,83.296.889/0001-23,-
-152,Cia de Agua e Esgoto do Ceara,ON,31/12/2020,¡gua  esgoto e outros sistemas,18546 ON,ativo,07.040.108/0001-57,-
-153,Cia Hering,ON,31/12/2020,Ind˙stria de roupas de malha,HGTX3,ativo,78.876.950/0001-71,Novo Mercado
-154,Cia Hidro Eletrica Sao Francisco,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,03328 ON,ativo,33.541.368/0001-16,-
+152,Cia de Agua e Esgoto do Ceara,ON,31/12/2020,√Ågua  esgoto e outros sistemas,18546 ON,ativo,07.040.108/0001-57,-
+153,Cia Hering,ON,31/12/2020,Ind√∫stria de roupas de malha,HGTX3,ativo,78.876.950/0001-71,Novo Mercado
+154,Cia Hidro Eletrica Sao Francisco,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,03328 ON,ativo,33.541.368/0001-16,-
 155,Cia Mineira de Acucar e Alcool,ON,30/06/2020,Outros cultivos,21709 ON,ativo,08.493.364/0001-62,-
-156,Cia Provincia de Secur Cred Imob,ON,31/12/2020,ServiÁos financeiros e seguros,19429 ON,ativo,04.200.649/0001-07,-
-157,Cia Riograndense de Saneamento,ON,31/12/2020,¡gua  esgoto e outros sistemas,16748 ON,ativo,92.802.784/0001-90,-
-158,Cia Sec de Cred Fin Vert-Prov,ON,31/12/2020,ServiÁos financeiros e seguros,25267 ON,ativo,34.469.625/0001-19,-
-159,Cia Sec de Cred Financeiros Vert-Fintech,ON,31/12/2020,ServiÁos financeiros e seguros,24511 ON,ativo,30.219.233/0001-40,-
-160,Cia Sec de Cred Financeiros Vert-Nexoos,ON,31/12/2020,ServiÁos financeiros e seguros,24520 ON,ativo,30.418.658/0001-89,-
-161,Cia Sec de Cred Financeiros Vert-Recargapay,ON,31/12/2020,ServiÁos financeiros e seguros,25216 ON,ativo,30.545.324/0001-76,-
-162,Cia Sec de CrÈditos Fin Cartıes Consignados BMG,ON,31/12/2020,Seguradora,24147 ON,ativo,27.137.879/0001-74,-
-163,Cia Sec de Creditos Fin Vert 5,ON,31/12/2020,ServiÁos financeiros e seguros,25593 ON,ativo,37.368.315/0001-04,-
-164,Cia Sec de Creditos Fin Vert-Gyra,ON,31/12/2020,ServiÁos financeiros e seguros,25020 ON,ativo,32.770.457/0001-71,-
-165,Cibrasec Cia Bras de Securitizacao,ON,31/12/2020,ServiÁos financeiros e seguros,18287 ON,ativo,02.105.040/0001-23,-
-166,Cielo,ON,31/03/2021,ServiÁos de processamento de dados  hospedagem e outros serviÁos relacionados,CIEL3,ativo,01.027.058/0001-91,Novo Mercado
-167,Cims,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,CMSA3,ativo,00.272.185/0001-93,Tradicional
-168,Cinesystem,ON,31/12/2020,Ind˙stria cinematogr·fica,CNSY3,ativo,07.437.016/0001-05,Bovespa Mais
-169,Claro Telecom Part S/A,ON,31/12/2020,TelecomunicaÁıes,23531 ON,ativo,07.043.628/0001-13,-
-170,Cm Hospitalar S/A,ON,31/12/2020,Loja de artigos para sa˙de e cuidados pessoais,25682 ON,ativo,12.420.164/0001-57,-
-171,Cobrasma,ON,31/12/2020,Ind˙stria de equipamento ferrovi·rio,CBMA3,cancelado,61.080.313/0001-91,Tradicional
-172,Cobuccio Sec de CrÈditos S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24724 ON,ativo,32.372.085/0001-25,-
-173,Coelba,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CEEB3,ativo,15.139.629/0001-94,Tradicional
-174,Coelce,PNA,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,COCE5,ativo,07.047.251/0001-70,Tradicional
+156,Cia Provincia de Secur Cred Imob,ON,31/12/2020,Servi√ßos financeiros e seguros,19429 ON,ativo,04.200.649/0001-07,-
+157,Cia Riograndense de Saneamento,ON,31/12/2020,√Ågua  esgoto e outros sistemas,16748 ON,ativo,92.802.784/0001-90,-
+158,Cia Sec de Cred Fin Vert-Prov,ON,31/12/2020,Servi√ßos financeiros e seguros,25267 ON,ativo,34.469.625/0001-19,-
+159,Cia Sec de Cred Financeiros Vert-Fintech,ON,31/12/2020,Servi√ßos financeiros e seguros,24511 ON,ativo,30.219.233/0001-40,-
+160,Cia Sec de Cred Financeiros Vert-Nexoos,ON,31/12/2020,Servi√ßos financeiros e seguros,24520 ON,ativo,30.418.658/0001-89,-
+161,Cia Sec de Cred Financeiros Vert-Recargapay,ON,31/12/2020,Servi√ßos financeiros e seguros,25216 ON,ativo,30.545.324/0001-76,-
+162,Cia Sec de Cr√©ditos Fin Cart√µes Consignados BMG,ON,31/12/2020,Seguradora,24147 ON,ativo,27.137.879/0001-74,-
+163,Cia Sec de Creditos Fin Vert 5,ON,31/12/2020,Servi√ßos financeiros e seguros,25593 ON,ativo,37.368.315/0001-04,-
+164,Cia Sec de Creditos Fin Vert-Gyra,ON,31/12/2020,Servi√ßos financeiros e seguros,25020 ON,ativo,32.770.457/0001-71,-
+165,Cibrasec Cia Bras de Securitizacao,ON,31/12/2020,Servi√ßos financeiros e seguros,18287 ON,ativo,02.105.040/0001-23,-
+166,Cielo,ON,31/03/2021,Servi√ßos de processamento de dados  hospedagem e outros servi√ßos relacionados,CIEL3,ativo,01.027.058/0001-91,Novo Mercado
+167,Cims,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,CMSA3,ativo,00.272.185/0001-93,Tradicional
+168,Cinesystem,ON,31/12/2020,Ind√∫stria cinematogr√°fica,CNSY3,ativo,07.437.016/0001-05,Bovespa Mais
+169,Claro Telecom Part S/A,ON,31/12/2020,Telecomunica√ß√µes,23531 ON,ativo,07.043.628/0001-13,-
+170,Cm Hospitalar S/A,ON,31/12/2020,Loja de artigos para sa√∫de e cuidados pessoais,25682 ON,ativo,12.420.164/0001-57,-
+171,Cobrasma,ON,31/12/2020,Ind√∫stria de equipamento ferrovi√°rio,CBMA3,cancelado,61.080.313/0001-91,Tradicional
+172,Cobuccio Sec de Cr√©ditos S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24724 ON,ativo,32.372.085/0001-25,-
+173,Coelba,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CEEB3,ativo,15.139.629/0001-94,Tradicional
+174,Coelce,PNA,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,COCE5,ativo,07.047.251/0001-70,Tradicional
 175,Cogna ON,ON,31/12/2020,Escola de ensino superior,COGN3,ativo,02.800.026/0001-40,Novo Mercado
-176,Comgas,PNA,31/12/2020,DistribuiÁ„o de g·s natural,CGAS5,ativo,61.856.571/0001-17,Tradicional
-177,Companhia de G·s de Minas Gerais - Gasmig,ON,31/12/2020,DistribuiÁ„o de g·s natural,25178 ON,ativo,22.261.473/0001-85,-
-178,Companhia EnergÈtica Jaguara,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,02442 ON,ativo,28.925.264/0001-75,-
-179,Companhia EnergÈtica Miranda,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24430 ON,ativo,28.942.127/0001-49,-
-180,Companhia EnergÈtica Sinop S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24155 ON,ativo,19.527.586/0001-75,-
+176,Comgas,PNA,31/12/2020,Distribui√ß√£o de g√°s natural,CGAS5,ativo,61.856.571/0001-17,Tradicional
+177,Companhia de G√°s de Minas Gerais - Gasmig,ON,31/12/2020,Distribui√ß√£o de g√°s natural,25178 ON,ativo,22.261.473/0001-85,-
+178,Companhia Energ√©tica Jaguara,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,02442 ON,ativo,28.925.264/0001-75,-
+179,Companhia Energ√©tica Miranda,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24430 ON,ativo,28.942.127/0001-49,-
+180,Companhia Energ√©tica Sinop S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24155 ON,ativo,19.527.586/0001-75,-
 181,Companhia Paulista de Securitizacao,ON,31/12/2020,Seguradora,22080 ON,ativo,11.274.829/0001-07,-
-182,Compass G·s e Energia S/A,ON,31/12/2020,DistribuiÁ„o de g·s natural,025127 ON,ativo,21.389.501/0001-81,-
-183,Conc de Rod do Oeste de SP - Viaoeste S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21024 ON,ativo,02.415.408/0001-50,-
-184,Conc de Rodov do Interior Paulista SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21849 ON,ativo,03.207.703/0001-83,-
-185,Conc do Aerop Inter de Guarulhos S/A,ON,31/12/2020,Atividades auxiliares ao transporte aÈreo,23515 ON,ativo,15.578.569/0001-06,-
-186,Conc Ponte Rio-Niteroi S/A - Ecoponte,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,24139 ON,ativo,22.163.297/0001-49,-
-187,Conc Rio Ter,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,CRTE3B,ativo,00.938.574/0001-05,Balc„o Organizado
-188,Concebra Concess Das Rod Centrais do Brasil S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23868 ON,ativo,18.572.225/0001-88,-
-189,Concess Auto Raposo Tavares S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22268 ON,ativo,10.531.501/0001-58,-
-190,Concess da Rodovia MG 050 S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,24104 ON,ativo,08.822.767/0001-08,-
-191,Concess Das Rodov Integradas do Sul S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,25356 ON,ativo,32.161.500/0001-00,-
-192,Concess de Rodov Sul-Matogrossense S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23833 ON,ativo,19.642.306/0001-70,-
-193,Concess de Rodovias Minas Gerais Goias S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23884 ON,ativo,19.208.022/0001-70,-
-194,Concess Rodovias Tiete SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22721 ON,ativo,10.678.505/0001-63,-
-195,Concess Rota Das Bandeiras S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22071 ON,ativo,10.647.979/0001-48,-
-196,Concess„o Metroviaria Rj S/A,ON,31/12/2020,Transporte ferrovi·rio,22144 ON,ativo,10.324.624/0001-18,-
-197,Concessionaria BR-040 S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23892 ON,ativo,19.726.048/0001-00,-
-198,Concessionaria Ecovias Dos Imigrantes SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,20397 ON,ativo,02.509.491/0001-26,-
-199,Concession·ria Rota do Oeste S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23922 ON,ativo,19.521.322/0001-04,-
-200,Conpel Cia Nordestina Papel,ON,31/12/2020,Outras outras ind˙strias,04685 ON,ativo,09.116.278/0001-01,-
-201,Consig 6 I Cia Sec de Cred Financeiros,ON,31/12/2020,ServiÁos financeiros e seguros,025054 ON,ativo,36.243.187/0001-00,-
-202,Consignados I Cia Sec de Cred Financeiros,ON,31/12/2020,ServiÁos financeiros e seguros,24899 ON,ativo,29.894.663/0001-89,-
-203,Const A Lind,PN,31/12/2020,ConstruÁ„o de edifÌcios residenciais,CALI4,ativo,61.022.042/0001-18,Tradicional
-204,Copasa,ON,31/12/2020,¡gua  esgoto e outros sistemas,CSMG3,ativo,17.281.106/0001-03,Novo Mercado
-205,Copel,PNB,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CPLE6,ativo,76.483.817/0001-20,NÌvel 1
-206,Copel GeraÁ„o e Transmiss„o S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24740 ON,ativo,04.370.282/0001-70,-
-207,Cor Ribeiro,PN,31/12/2020,AdministraÁ„o de empresas e empreendimentos,CORR4,ativo,15.101.405/0001-93,Tradicional
-208,Cosan,ON,31/12/2020,ComÈrcio atacadista de petrÛleo e produtos de petrÛleo,CSAN3,ativo,50.746.577/0001-15,Novo Mercado
-209,Cosan Log,ON,30/09/2020,Transporte ferrovi·rio,RLOG3,cancelado,17.346.997/0001-39,Novo Mercado
-210,Cosern,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CSRN3,ativo,08.324.196/0001-81,Tradicional
-211,Coteminas,PN,31/12/2020,Ind˙stria de roupas de tecido,CTNM4,ativo,22.677.520/0001-76,Tradicional
-212,CPFL Energia,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CPFE3,ativo,02.429.144/0001-93,Novo Mercado
-213,CPFL Geracao,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CPFG3,cancelado,03.953.509/0001-47,-
-214,CPFL Piratininga,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CPFP4,cancelado,04.172.213/0001-51,-
-215,CPFL Renovav,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,CPRE3,cancelado,08.439.659/0001-50,Tradicional
-216,Cr2,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,CRDE3,ativo,07.820.907/0001-46,Tradicional
-217,Cristal,PNA,31/12/2020,Ind˙stria quÌmica,CRPG5,ativo,15.115.504/0001-24,Tradicional
+182,Compass G√°s e Energia S/A,ON,31/12/2020,Distribui√ß√£o de g√°s natural,025127 ON,ativo,21.389.501/0001-81,-
+183,Conc de Rod do Oeste de SP - Viaoeste S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21024 ON,ativo,02.415.408/0001-50,-
+184,Conc de Rodov do Interior Paulista SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21849 ON,ativo,03.207.703/0001-83,-
+185,Conc do Aerop Inter de Guarulhos S/A,ON,31/12/2020,Atividades auxiliares ao transporte a√©reo,23515 ON,ativo,15.578.569/0001-06,-
+186,Conc Ponte Rio-Niteroi S/A - Ecoponte,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,24139 ON,ativo,22.163.297/0001-49,-
+187,Conc Rio Ter,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,CRTE3B,ativo,00.938.574/0001-05,Balc√£o Organizado
+188,Concebra Concess Das Rod Centrais do Brasil S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23868 ON,ativo,18.572.225/0001-88,-
+189,Concess Auto Raposo Tavares S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22268 ON,ativo,10.531.501/0001-58,-
+190,Concess da Rodovia MG 050 S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,24104 ON,ativo,08.822.767/0001-08,-
+191,Concess Das Rodov Integradas do Sul S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,25356 ON,ativo,32.161.500/0001-00,-
+192,Concess de Rodov Sul-Matogrossense S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23833 ON,ativo,19.642.306/0001-70,-
+193,Concess de Rodovias Minas Gerais Goias S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23884 ON,ativo,19.208.022/0001-70,-
+194,Concess Rodovias Tiete SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22721 ON,ativo,10.678.505/0001-63,-
+195,Concess Rota Das Bandeiras S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22071 ON,ativo,10.647.979/0001-48,-
+196,Concess√£o Metroviaria Rj S/A,ON,31/12/2020,Transporte ferrovi√°rio,22144 ON,ativo,10.324.624/0001-18,-
+197,Concessionaria BR-040 S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23892 ON,ativo,19.726.048/0001-00,-
+198,Concessionaria Ecovias Dos Imigrantes SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,20397 ON,ativo,02.509.491/0001-26,-
+199,Concession√°ria Rota do Oeste S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23922 ON,ativo,19.521.322/0001-04,-
+200,Conpel Cia Nordestina Papel,ON,31/12/2020,Outras outras ind√∫strias,04685 ON,ativo,09.116.278/0001-01,-
+201,Consig 6 I Cia Sec de Cred Financeiros,ON,31/12/2020,Servi√ßos financeiros e seguros,025054 ON,ativo,36.243.187/0001-00,-
+202,Consignados I Cia Sec de Cred Financeiros,ON,31/12/2020,Servi√ßos financeiros e seguros,24899 ON,ativo,29.894.663/0001-89,-
+203,Const A Lind,PN,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,CALI4,ativo,61.022.042/0001-18,Tradicional
+204,Copasa,ON,31/12/2020,√Ågua  esgoto e outros sistemas,CSMG3,ativo,17.281.106/0001-03,Novo Mercado
+205,Copel,PNB,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CPLE6,ativo,76.483.817/0001-20,N√≠vel 1
+206,Copel Gera√ß√£o e Transmiss√£o S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24740 ON,ativo,04.370.282/0001-70,-
+207,Cor Ribeiro,PN,31/12/2020,Administra√ß√£o de empresas e empreendimentos,CORR4,ativo,15.101.405/0001-93,Tradicional
+208,Cosan,ON,31/12/2020,Com√©rcio atacadista de petr√≥leo e produtos de petr√≥leo,CSAN3,ativo,50.746.577/0001-15,Novo Mercado
+209,Cosan Log,ON,30/09/2020,Transporte ferrovi√°rio,RLOG3,cancelado,17.346.997/0001-39,Novo Mercado
+210,Cosern,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CSRN3,ativo,08.324.196/0001-81,Tradicional
+211,Coteminas,PN,31/12/2020,Ind√∫stria de roupas de tecido,CTNM4,ativo,22.677.520/0001-76,Tradicional
+212,CPFL Energia,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CPFE3,ativo,02.429.144/0001-93,Novo Mercado
+213,CPFL Geracao,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CPFG3,cancelado,03.953.509/0001-47,-
+214,CPFL Piratininga,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CPFP4,cancelado,04.172.213/0001-51,-
+215,CPFL Renovav,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,CPRE3,cancelado,08.439.659/0001-50,Tradicional
+216,Cr2,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,CRDE3,ativo,07.820.907/0001-46,Tradicional
+217,Cristal,PNA,31/12/2020,Ind√∫stria qu√≠mica,CRPG5,ativo,15.115.504/0001-24,Tradicional
 218,Cruzeiro Edu,ON,31/12/2020,Escola de ensino superior,CSED3,ativo,62.984.091/0001-02,Novo Mercado
-219,CS Brasil ParticipaÁıes e LocaÁıes S/A,ON,30/09/2020,Locadora de automÛveis,25739 ON,ativo,35.502.310/0001-99,-
-220,Csa Cia Securitizadora de Ativos,ON,31/12/2020,ServiÁos financeiros e seguros,19470 ON,ativo,05.889.284/0001-32,-
-221,Csn Mineraca,ON,31/12/2020,MineraÁ„o de metais,CMIN3,ativo,08.902.291/0001-15,NÌvel 2
-222,Csu Cardsyst,ON,31/12/2020,ServiÁos de apoio a empresas,CARD3,ativo,01.896.779/0001-38,Novo Mercado
+219,CS Brasil Participa√ß√µes e Loca√ß√µes S/A,ON,30/09/2020,Locadora de autom√≥veis,25739 ON,ativo,35.502.310/0001-99,-
+220,Csa Cia Securitizadora de Ativos,ON,31/12/2020,Servi√ßos financeiros e seguros,19470 ON,ativo,05.889.284/0001-32,-
+221,Csn Mineraca,ON,31/12/2020,Minera√ß√£o de metais,CMIN3,ativo,08.902.291/0001-15,N√≠vel 2
+222,Csu Cardsyst,ON,31/12/2020,Servi√ßos de apoio a empresas,CARD3,ativo,01.896.779/0001-38,Novo Mercado
 223,Ctc S.A.,ON,31/12/2020,Agricultura,CTCA3,ativo,06.981.381/0001-13,Bovespa Mais
-224,Cury S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,CURY3,ativo,08.797.760/0001-83,Novo Mercado
-225,Cvc Brasil,ON,31/12/2020,Transporte turÌstico,CVCB3,ativo,10.760.260/0001-19,Novo Mercado
-226,Cyre Com-Ccp,ON,31/12/2020,Locadora de imÛveis,CCPR3,ativo,08.801.621/0001-86,Novo Mercado
-227,Cyrela Realt,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,CYRE3,ativo,73.178.600/0001-18,Novo Mercado
-228,D1000vfarma,ON,31/12/2020,Loja de artigos para sa˙de e cuidados pessoais,DMVF3,ativo,12.108.897/0001-50,Novo Mercado
-229,Dasa,ON,31/12/2020,LaboratÛrio de exames mÈdicos,DASA3,ativo,61.486.650/0001-83,Tradicional
+224,Cury S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,CURY3,ativo,08.797.760/0001-83,Novo Mercado
+225,Cvc Brasil,ON,31/12/2020,Transporte tur√≠stico,CVCB3,ativo,10.760.260/0001-19,Novo Mercado
+226,Cyre Com-Ccp,ON,31/12/2020,Locadora de im√≥veis,CCPR3,ativo,08.801.621/0001-86,Novo Mercado
+227,Cyrela Realt,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,CYRE3,ativo,73.178.600/0001-18,Novo Mercado
+228,D1000vfarma,ON,31/12/2020,Loja de artigos para sa√∫de e cuidados pessoais,DMVF3,ativo,12.108.897/0001-50,Novo Mercado
+229,Dasa,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,DASA3,ativo,61.486.650/0001-83,Tradicional
 230,Daycoval,PN,31/12/2020,Bancos,DAYC4,cancelado,62.232.889/0001-90,Tradicional
-231,Dibens Leasing SA,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,14214 ON,ativo,65.654.303/0001-73,-
-232,Dimed,ON,31/12/2020,Loja de artigos para sa˙de e cuidados pessoais,PNVL3,ativo,92.665.611/0001-77,NÌvel 2
-233,Dinamica Ene,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,DNEN3B,cancelado,07.659.538/0001-51,Balc„o Organizado
-234,Direcional,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,DIRR3,ativo,16.614.075/0001-00,Novo Mercado
-235,Dohler,PN,31/12/2020,Ind˙stria de roupas de tecido,DOHL4,ativo,84.683.408/0001-03,Tradicional
-236,Dommo,ON,31/12/2020,ExtraÁ„o de petrÛleo e g·s,DMMO3,ativo,08.926.302/0001-05,Tradicional
+231,Dibens Leasing SA,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,14214 ON,ativo,65.654.303/0001-73,-
+232,Dimed,ON,31/12/2020,Loja de artigos para sa√∫de e cuidados pessoais,PNVL3,ativo,92.665.611/0001-77,N√≠vel 2
+233,Dinamica Ene,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,DNEN3B,cancelado,07.659.538/0001-51,Balc√£o Organizado
+234,Direcional,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,DIRR3,ativo,16.614.075/0001-00,Novo Mercado
+235,Dohler,PN,31/12/2020,Ind√∫stria de roupas de tecido,DOHL4,ativo,84.683.408/0001-03,Tradicional
+236,Dommo,ON,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,DMMO3,ativo,08.926.302/0001-05,Tradicional
 237,Dtcom Direct,ON,31/12/2020,Outros tipos de escolas,DTCY3,ativo,03.303.999/0001-36,Tradicional
-238,Duratex,ON,31/12/2020,Ind˙stria de mÛveis e afins,DTEX3,ativo,97.837.181/0001-47,Novo Mercado
-239,Eco Sec Dtos Cred Agroneg S/A,ON,31/12/2020,ServiÁos financeiros e seguros,21741 ON,ativo,10.753.164/0001-43,-
-240,Eco101 Concess de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23582 ON,ativo,15.484.093/0001-44,-
+238,Duratex,ON,31/12/2020,Ind√∫stria de m√≥veis e afins,DTEX3,ativo,97.837.181/0001-47,Novo Mercado
+239,Eco Sec Dtos Cred Agroneg S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,21741 ON,ativo,10.753.164/0001-43,-
+240,Eco101 Concess de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23582 ON,ativo,15.484.093/0001-44,-
 241,Economico,PN,30/06/1995,Bancos,BCE4,cancelado,15.124.464/0001-87,-
-242,Ecopistas - Concess Das Rodov Ayrton Senna S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22411 ON,ativo,10.841.050/0001-55,-
-243,Ecorodovias,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,ECOR3,ativo,04.149.454/0001-80,Novo Mercado
-244,Ecorodovias Concessoes e Serv SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,21903 ON,ativo,08.873.873/0001-10,-
-245,Eldorado Brasil Celulose S/A,ON,31/12/2020,Ind˙stria de papel  celulose e papel„o,22810 ON,ativo,07.401.436/0001-31,-
-246,Elektro,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EKTR4,ativo,02.328.280/0001-97,Tradicional
-247,Eletrobras,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ELET3,ativo,00.001.180/0001-26,NÌvel 1
-248,Eletromidia,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,ELMD3,ativo,09.347.516/0001-81,Novo Mercado
-249,Eletropar,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,LIPR3,ativo,01.104.937/0001-70,Tradicional
-250,Eletropaulo,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ELPL3,cancelado,61.695.227/0001-93,Tradicional
-251,Emae,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EMAE4,ativo,02.302.101/0001-42,Tradicional
-252,Embraer,ON,31/12/2020,Ind˙stria de equipamentos aeroespacias,EMBR3,ativo,07.689.002/0001-89,Novo Mercado
-253,Enauta Part,ON,31/12/2020,ExtraÁ„o de petrÛleo e g·s,ENAT3,ativo,11.669.021/0001-10,Novo Mercado
-254,Encalso Particip em Concess S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,23701 ON,ativo,21.262.638/0001-70,-
-255,Encorpar,PN,31/12/2020,Ind˙stria de fios,ECPR4,ativo,01.971.614/0001-83,Tradicional
-256,Energias BR,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ENBR3,ativo,03.983.431/0001-03,Novo Mercado
-257,Energisa,UNT N2,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ENGI11,ativo,00.864.214/0001-06,NÌvel 2
-258,Energisa Mt,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ENMT3,ativo,03.467.321/0001-99,Tradicional
-259,Energisa Paraiba Dist e Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,21938 ON,ativo,09.095.183/0001-40,-
-260,Energisa Sergipe Dist de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,18996 ON,ativo,13.017.462/0001-63,-
-261,Energisa Sul Sudeste Distr de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24864 ON,ativo,07.282.377/0001-20,-
-262,Energisa Transmiss„o de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24589 ON,ativo,28.201.130/0001-01,-
-263,Enersul,PNB,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ENER6,cancelado,15.413.826/0001-50,-
-264,Eneva,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ENEV3,ativo,04.423.567/0001-21,Novo Mercado
-265,Engie Brasil,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EGIE3,ativo,02.474.103/0001-19,Novo Mercado
-266,Enjoei,ON,31/12/2020,Vendas por correio ou meio eletrÙnico,ENJU3,ativo,16.922.038/0001-51,Novo Mercado
-267,Entrevias Concession·ria de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,24341 ON,ativo,26.664.057/0001-89,-
-268,Eqtl Maranhao,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EQMA3B,ativo,06.272.793/0001-84,Balc„o Organizado
-269,Eqtl Para,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EQPA3,ativo,04.895.728/0001-80,Tradicional
-270,Equatorial,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,EQTL3,ativo,03.220.438/0001-73,Novo Mercado
-271,Equatorial Transmissora 7 Spe S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24457 ON,ativo,26.845.702/0001-60,-
-272,Equatorial Transmissora 8 Spe S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24481 ON,ativo,27.967.244/0001-02,-
-273,Escelsa,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,ESCE3,cancelado,28.152.650/0001-71,-
-274,Espacolaser,ON,31/12/2020,Outros serviÁos ambulatoriais de sa˙de,ESPA3,ativo,26.659.061/0001-59,Novo Mercado
-275,Estapar,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,ALPK3,ativo,60.537.263/0001-66,Novo Mercado
-276,Estrela,PN,31/12/2020,Outras outras ind˙strias,ESTR4,ativo,61.082.004/0001-50,Tradicional
-277,Eternit,ON,31/12/2020,Ind˙stria de outros produtos de minerais n„o met·licos,ETER3,ativo,61.092.037/0001-81,Novo Mercado
-278,Eucatex,PN,31/12/2020,Ind˙stria de produtos de madeira compensada e afins,EUCA4,ativo,56.643.018/0001-66,NÌvel 1
-279,Even,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,EVEN3,ativo,43.470.988/0001-65,Novo Mercado
-280,Excelsior,PN,31/12/2020,Outras ind˙strias de alimentos,BAUH4,ativo,95.426.862/0001-97,Tradicional
-281,Ez Inc IncorporaÁıes Comerciais S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios n„o residenciais,25380 ON,ativo,35.727.157/0001-06,-
-282,Eztec,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,EZTC3,ativo,08.312.229/0001-73,Novo Mercado
-283,F Cataguazes,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,FLCL3,cancelado,19.527.639/0001-58,-
-284,Farm·cia e Drogaria Nissei SA,ON,31/12/2020,Loja de artigos para sa˙de e cuidados pessoais,25429 ON,ativo,79.430.682/0001-22,-
-285,Felcar Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24333 ON,ativo,27.956.690/0001-03,-
-286,Feniciapar S/A,ON,31/12/2019,ServiÁos financeiros e seguros,15024 ON,ativo,74.409.467/0001-26,-
-287,Fer Heringer,ON,31/12/2020,Ind˙stria de fertilizantes e pesticidas,FHER3,ativo,22.266.175/0001-88,Novo Mercado
-288,Ferbasa,PN,31/12/2020,FundiÁ„o,FESA4,ativo,15.141.799/0001-03,NÌvel 1
-289,Ferreira Gomes Energia SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,22977 ON,ativo,12.489.315/0001-23,-
-290,Ferrovia Norte Sul S/A,ON,31/12/2020,Transporte ferrovi·rio,21814 ON,ativo,09.257.877/0001-37,-
-291,Ferrovia Sul Atlantico S/A,ON,31/12/2020,Transporte ferrovi·rio,15709 ON,ativo,01.258.944/0001-26,-
+242,Ecopistas - Concess Das Rodov Ayrton Senna S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22411 ON,ativo,10.841.050/0001-55,-
+243,Ecorodovias,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,ECOR3,ativo,04.149.454/0001-80,Novo Mercado
+244,Ecorodovias Concessoes e Serv SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,21903 ON,ativo,08.873.873/0001-10,-
+245,Eldorado Brasil Celulose S/A,ON,31/12/2020,Ind√∫stria de papel  celulose e papel√£o,22810 ON,ativo,07.401.436/0001-31,-
+246,Elektro,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EKTR4,ativo,02.328.280/0001-97,Tradicional
+247,Eletrobras,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ELET3,ativo,00.001.180/0001-26,N√≠vel 1
+248,Eletromidia,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,ELMD3,ativo,09.347.516/0001-81,Novo Mercado
+249,Eletropar,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,LIPR3,ativo,01.104.937/0001-70,Tradicional
+250,Eletropaulo,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ELPL3,cancelado,61.695.227/0001-93,Tradicional
+251,Emae,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EMAE4,ativo,02.302.101/0001-42,Tradicional
+252,Embraer,ON,31/12/2020,Ind√∫stria de equipamentos aeroespacias,EMBR3,ativo,07.689.002/0001-89,Novo Mercado
+253,Enauta Part,ON,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,ENAT3,ativo,11.669.021/0001-10,Novo Mercado
+254,Encalso Particip em Concess S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,23701 ON,ativo,21.262.638/0001-70,-
+255,Encorpar,PN,31/12/2020,Ind√∫stria de fios,ECPR4,ativo,01.971.614/0001-83,Tradicional
+256,Energias BR,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ENBR3,ativo,03.983.431/0001-03,Novo Mercado
+257,Energisa,UNT N2,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ENGI11,ativo,00.864.214/0001-06,N√≠vel 2
+258,Energisa Mt,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ENMT3,ativo,03.467.321/0001-99,Tradicional
+259,Energisa Paraiba Dist e Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,21938 ON,ativo,09.095.183/0001-40,-
+260,Energisa Sergipe Dist de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,18996 ON,ativo,13.017.462/0001-63,-
+261,Energisa Sul Sudeste Distr de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24864 ON,ativo,07.282.377/0001-20,-
+262,Energisa Transmiss√£o de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24589 ON,ativo,28.201.130/0001-01,-
+263,Enersul,PNB,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ENER6,cancelado,15.413.826/0001-50,-
+264,Eneva,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ENEV3,ativo,04.423.567/0001-21,Novo Mercado
+265,Engie Brasil,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EGIE3,ativo,02.474.103/0001-19,Novo Mercado
+266,Enjoei,ON,31/12/2020,Vendas por correio ou meio eletr√¥nico,ENJU3,ativo,16.922.038/0001-51,Novo Mercado
+267,Entrevias Concession√°ria de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,24341 ON,ativo,26.664.057/0001-89,-
+268,Eqtl Maranhao,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EQMA3B,ativo,06.272.793/0001-84,Balc√£o Organizado
+269,Eqtl Para,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EQPA3,ativo,04.895.728/0001-80,Tradicional
+270,Equatorial,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,EQTL3,ativo,03.220.438/0001-73,Novo Mercado
+271,Equatorial Transmissora 7 Spe S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24457 ON,ativo,26.845.702/0001-60,-
+272,Equatorial Transmissora 8 Spe S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24481 ON,ativo,27.967.244/0001-02,-
+273,Escelsa,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,ESCE3,cancelado,28.152.650/0001-71,-
+274,Espacolaser,ON,31/12/2020,Outros servi√ßos ambulatoriais de sa√∫de,ESPA3,ativo,26.659.061/0001-59,Novo Mercado
+275,Estapar,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,ALPK3,ativo,60.537.263/0001-66,Novo Mercado
+276,Estrela,PN,31/12/2020,Outras outras ind√∫strias,ESTR4,ativo,61.082.004/0001-50,Tradicional
+277,Eternit,ON,31/12/2020,Ind√∫stria de outros produtos de minerais n√£o met√°licos,ETER3,ativo,61.092.037/0001-81,Novo Mercado
+278,Eucatex,PN,31/12/2020,Ind√∫stria de produtos de madeira compensada e afins,EUCA4,ativo,56.643.018/0001-66,N√≠vel 1
+279,Even,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,EVEN3,ativo,43.470.988/0001-65,Novo Mercado
+280,Excelsior,PN,31/12/2020,Outras ind√∫strias de alimentos,BAUH4,ativo,95.426.862/0001-97,Tradicional
+281,Ez Inc Incorpora√ß√µes Comerciais S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios n√£o residenciais,25380 ON,ativo,35.727.157/0001-06,-
+282,Eztec,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,EZTC3,ativo,08.312.229/0001-73,Novo Mercado
+283,F Cataguazes,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,FLCL3,cancelado,19.527.639/0001-58,-
+284,Farm√°cia e Drogaria Nissei SA,ON,31/12/2020,Loja de artigos para sa√∫de e cuidados pessoais,25429 ON,ativo,79.430.682/0001-22,-
+285,Felcar Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24333 ON,ativo,27.956.690/0001-03,-
+286,Feniciapar S/A,ON,31/12/2019,Servi√ßos financeiros e seguros,15024 ON,ativo,74.409.467/0001-26,-
+287,Fer Heringer,ON,31/12/2020,Ind√∫stria de fertilizantes e pesticidas,FHER3,ativo,22.266.175/0001-88,Novo Mercado
+288,Ferbasa,PN,31/12/2020,Fundi√ß√£o,FESA4,ativo,15.141.799/0001-03,N√≠vel 1
+289,Ferreira Gomes Energia SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,22977 ON,ativo,12.489.315/0001-23,-
+290,Ferrovia Norte Sul S/A,ON,31/12/2020,Transporte ferrovi√°rio,21814 ON,ativo,09.257.877/0001-37,-
+291,Ferrovia Sul Atlantico S/A,ON,31/12/2020,Transporte ferrovi√°rio,15709 ON,ativo,01.258.944/0001-26,-
 292,Finansinos,ON,31/12/2020,Bancos,FNCN3,ativo,91.669.747/0001-92,Tradicional
-293,Fleury,ON,31/12/2020,LaboratÛrio de exames mÈdicos,FLRY3,ativo,60.840.055/0001-31,Novo Mercado
-294,Flex S/A,ON,31/12/2020,Outros serviÁos de apoio,FLEX3,ativo,10.851.805/0001-00,Bovespa Mais
-295,Focus ON,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,POWE3,ativo,26.735.020/0001-02,Novo Mercado
-296,Forte Capital Securities S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22489 ON,ativo,12.979.898/0001-70,-
-297,Fortunato Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23566 ON,ativo,21.610.416/0001-00,-
-298,Fras-Le,ON,31/12/2020,Ind˙stria de autopeÁas,FRAS3,ativo,88.610.126/0001-29,NÌvel 1
-299,Ftl Ferrovia Trans Log S/A,ON,31/12/2020,Transporte ferrovi·rio,23370 ON,ativo,17.234.244/0001-31,-
-300,Futuretel,ON,31/12/2018,AdministraÁ„o de empresas e empreendimentos,FTRT3B,cancelado,02.465.783/0001-04,Balc„o Organizado
-301,Gafisa,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,GFSA3,ativo,01.545.826/0001-07,Novo Mercado
-302,Gaia Agro Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22764 ON,ativo,14.876.090/0001-93,-
-303,Gaia Cred Securitizadora de Cred Finananceiros S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24040 ON,ativo,20.646.442/0001-17,-
-304,Gaia Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,20222 ON,ativo,07.587.384/0001-30,-
-305,Gama Part,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,OPGM3B,ativo,02.796.775/0001-40,Balc„o Organizado
-306,Generalshopp,ON,31/12/2020,Locadora de imÛveis,GSHP3,ativo,08.764.621/0001-53,Novo Mercado
-307,Ger Paranap,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,GEPA4,ativo,02.998.301/0001-81,Tradicional
-308,Gerdau,PN,31/12/2020,TransformaÁ„o de aÁo em produtos de aÁo,GGBR4,ativo,33.611.500/0001-19,NÌvel 1
-309,Gerdau Met,PN,31/12/2020,TransformaÁ„o de aÁo em produtos de aÁo,GOAU4,ativo,92.690.783/0001-09,NÌvel 1
-310,Geru Sec de Cred Financeiros S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24538 ON,ativo,21.976.484/0001-89,-
-311,Gol,PN,31/12/2020,Transporte aÈreo regular,GOLL4,ativo,06.164.253/0001-87,NÌvel 2
-312,GPC Part,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,GPCP3,ativo,02.193.750/0001-52,Tradicional
-313,Gps,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,GGPS3,ativo,09.229.201/0001-30,Novo Mercado
+293,Fleury,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,FLRY3,ativo,60.840.055/0001-31,Novo Mercado
+294,Flex S/A,ON,31/12/2020,Outros servi√ßos de apoio,FLEX3,ativo,10.851.805/0001-00,Bovespa Mais
+295,Focus ON,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,POWE3,ativo,26.735.020/0001-02,Novo Mercado
+296,Forte Capital Securities S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22489 ON,ativo,12.979.898/0001-70,-
+297,Fortunato Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23566 ON,ativo,21.610.416/0001-00,-
+298,Fras-Le,ON,31/12/2020,Ind√∫stria de autope√ßas,FRAS3,ativo,88.610.126/0001-29,N√≠vel 1
+299,Ftl Ferrovia Trans Log S/A,ON,31/12/2020,Transporte ferrovi√°rio,23370 ON,ativo,17.234.244/0001-31,-
+300,Futuretel,ON,31/12/2018,Administra√ß√£o de empresas e empreendimentos,FTRT3B,cancelado,02.465.783/0001-04,Balc√£o Organizado
+301,Gafisa,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,GFSA3,ativo,01.545.826/0001-07,Novo Mercado
+302,Gaia Agro Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22764 ON,ativo,14.876.090/0001-93,-
+303,Gaia Cred Securitizadora de Cred Finananceiros S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24040 ON,ativo,20.646.442/0001-17,-
+304,Gaia Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,20222 ON,ativo,07.587.384/0001-30,-
+305,Gama Part,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,OPGM3B,ativo,02.796.775/0001-40,Balc√£o Organizado
+306,Generalshopp,ON,31/12/2020,Locadora de im√≥veis,GSHP3,ativo,08.764.621/0001-53,Novo Mercado
+307,Ger Paranap,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,GEPA4,ativo,02.998.301/0001-81,Tradicional
+308,Gerdau,PN,31/12/2020,Transforma√ß√£o de a√ßo em produtos de a√ßo,GGBR4,ativo,33.611.500/0001-19,N√≠vel 1
+309,Gerdau Met,PN,31/12/2020,Transforma√ß√£o de a√ßo em produtos de a√ßo,GOAU4,ativo,92.690.783/0001-09,N√≠vel 1
+310,Geru Sec de Cred Financeiros S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24538 ON,ativo,21.976.484/0001-89,-
+311,Gol,PN,31/12/2020,Transporte a√©reo regular,GOLL4,ativo,06.164.253/0001-87,N√≠vel 2
+312,GPC Part,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,GPCP3,ativo,02.193.750/0001-52,Tradicional
+313,Gps,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,GGPS3,ativo,09.229.201/0001-30,Novo Mercado
 314,Granbio Investimentos S/A,ON,30/09/2020,Agricultura,25321 ON,ativo,14.191.427/0001-29,-
 315,Grazziotin,PN,31/12/2020,Loja de roupas,CGRA4,ativo,92.012.467/0001-70,Tradicional
-316,Grendene,ON,31/12/2020,Ind˙stria de calÁados,GRND3,ativo,89.850.341/0001-60,Novo Mercado
+316,Grendene,ON,31/12/2020,Ind√∫stria de cal√ßados,GRND3,ativo,89.850.341/0001-60,Novo Mercado
 317,Grupo Mateus,ON,31/12/2020,Loja de departamentos,GMAT3,ativo,24.990.777/0001-09,Novo Mercado
-318,Grupo Natura,ON,31/12/2020,ComÈrcio atacadista de bens n„o dur·veis variados,NTCO3,ativo,32.785.497/0001-97,Novo Mercado
+318,Grupo Natura,ON,31/12/2020,Com√©rcio atacadista de bens n√£o dur√°veis variados,NTCO3,ativo,32.785.497/0001-97,Novo Mercado
 319,Grupo Sbf,ON,31/12/2020,Loja de artigos esportivos e instrumentos musicais,SBFG3,ativo,13.217.485/0001-11,Novo Mercado
-320,Grupo Soma,ON,31/12/2020,ComÈrcio atacadista de roupas,SOMA3,ativo,10.285.590/0001-08,Novo Mercado
-321,Guararapes,ON,31/12/2020,Ind˙stria de roupas de tecido,GUAR3,ativo,08.402.943/0001-52,Tradicional
-322,Guardian Companhia Securitizadora,ON,30/09/2020,ServiÁos financeiros e seguros,24562 ON,ativo,30.788.149/0001-48,-
-323,Habirasec Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,21628 ON,ativo,09.304.427/0001-58,-
-324,Habitasul,PNA,31/12/2020,AdministraÁ„o de empresas e empreendimentos,HBTS5,ativo,87.762.563/0001-03,Tradicional
-325,Haga S/A,PN,31/12/2020,Ind˙stria de ferragens,HAGA4,ativo,30.540.991/0001-66,Tradicional
-326,Hapvida,ON,31/12/2020,ServiÁos ambulatoriais de sa˙de,HAPV3,ativo,05.197.443/0001-38,Novo Mercado
-327,Hauscenter S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,14850 ON,ativo,56.444.250/0001-75,-
-328,Hbr Realty,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,HBRE3,ativo,14.785.152/0001-51,Novo Mercado
-329,Helbor,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,HBOR3,ativo,49.263.189/0001-02,Novo Mercado
-330,Hercules,PN,31/12/2020,Ind˙stria de ferramentas de metal n„o motorizadas e cutelaria,HETA4,ativo,92.749.225/0001-63,Tradicional
+320,Grupo Soma,ON,31/12/2020,Com√©rcio atacadista de roupas,SOMA3,ativo,10.285.590/0001-08,Novo Mercado
+321,Guararapes,ON,31/12/2020,Ind√∫stria de roupas de tecido,GUAR3,ativo,08.402.943/0001-52,Tradicional
+322,Guardian Companhia Securitizadora,ON,30/09/2020,Servi√ßos financeiros e seguros,24562 ON,ativo,30.788.149/0001-48,-
+323,Habirasec Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,21628 ON,ativo,09.304.427/0001-58,-
+324,Habitasul,PNA,31/12/2020,Administra√ß√£o de empresas e empreendimentos,HBTS5,ativo,87.762.563/0001-03,Tradicional
+325,Haga S/A,PN,31/12/2020,Ind√∫stria de ferragens,HAGA4,ativo,30.540.991/0001-66,Tradicional
+326,Hapvida,ON,31/12/2020,Servi√ßos ambulatoriais de sa√∫de,HAPV3,ativo,05.197.443/0001-38,Novo Mercado
+327,Hauscenter S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,14850 ON,ativo,56.444.250/0001-75,-
+328,Hbr Realty,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,HBRE3,ativo,14.785.152/0001-51,Novo Mercado
+329,Helbor,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,HBOR3,ativo,49.263.189/0001-02,Novo Mercado
+330,Hercules,PN,31/12/2020,Ind√∫stria de ferramentas de metal n√£o motorizadas e cutelaria,HETA4,ativo,92.749.225/0001-63,Tradicional
 331,Hidrovias,ON,31/12/2020,Transporte fluvial,HBSA3,ativo,12.648.327/0001-53,Novo Mercado
-332,Hlasa ParticipaÁıes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,25364 ON,ativo,39.393.829/0001-37,-
-333,Hmobi ParticipaÁıes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,25674 ON,ativo,40.159.947/0001-64,-
+332,Hlasa Participa√ß√µes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,25364 ON,ativo,39.393.829/0001-37,-
+333,Hmobi Participa√ß√µes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,25674 ON,ativo,40.159.947/0001-64,-
 334,Hoteis Othon,PN,31/12/2020,Hotel  motel ou similar,HOOT4,ativo,33.200.049/0001-47,Tradicional
-335,Housi S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,25313 ON,ativo,15.675.715/0001-11,-
-336,Hypera,ON,31/03/2021,Outras outras ind˙strias,HYPE3,ativo,02.932.074/0001-91,Novo Mercado
-337,Ifrasec Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,21750 ON,ativo,10.488.244/0001-19,-
-338,IGB S/A,ON,30/09/2020,Ind˙stria de equipamentos de ·udio e vÌdeo,IGBR3,ativo,43.185.362/0001-07,Tradicional
-339,Igua SA,ON,31/12/2020,¡gua  esgoto e outros sistemas,IGSN3,ativo,08.159.965/0001-33,Bovespa Mais
-340,Iguatemi,ON,31/12/2020,Locadora de imÛveis,IGTA3,ativo,51.218.147/0001-93,Novo Mercado
-341,Ihpardini,ON,31/12/2020,LaboratÛrio de exames mÈdicos,PARD3,ativo,19.378.769/0001-76,Novo Mercado
+335,Housi S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,25313 ON,ativo,15.675.715/0001-11,-
+336,Hypera,ON,31/03/2021,Outras outras ind√∫strias,HYPE3,ativo,02.932.074/0001-91,Novo Mercado
+337,Ifrasec Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,21750 ON,ativo,10.488.244/0001-19,-
+338,IGB S/A,ON,30/09/2020,Ind√∫stria de equipamentos de √°udio e v√≠deo,IGBR3,ativo,43.185.362/0001-07,Tradicional
+339,Igua SA,ON,31/12/2020,√Ågua  esgoto e outros sistemas,IGSN3,ativo,08.159.965/0001-33,Bovespa Mais
+340,Iguatemi,ON,31/12/2020,Locadora de im√≥veis,IGTA3,ativo,51.218.147/0001-93,Novo Mercado
+341,Ihpardini,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,PARD3,ativo,19.378.769/0001-76,Novo Mercado
 342,Imc S/A,ON,31/12/2020,Loja de comida e bebida,MEAL3,ativo,17.314.329/0001-20,Novo Mercado
 343,Inbrands SA,ON,31/12/2020,Loja de roupas,22560 ON,ativo,09.054.385/0001-44,-
 344,Ind Cataguas,ON,31/12/2020,Tecelagens,CATA3,ativo,19.526.748/0001-50,Tradicional
-345,Inds Romi,ON,31/03/2021,Ind˙stria de m·quinas industriais,ROMI3,ativo,56.720.428/0001-63,Novo Mercado
-346,Inepar,PN,30/09/2020,Outras outras ind˙strias,INEP4,ativo,76.627.504/0001-06,Tradicional
-347,Inepar Equip e Montagens S/A,ON,30/09/2020,Outras outras ind˙strias,17868 ON,ativo,02.258.422/0001-97,-
-348,Intelbras,ON,31/12/2020,Ind˙stria de equipamentos de comunicaÁ„o,INTB3,ativo,82.901.000/0001-27,Novo Mercado
-349,Inter SA,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,INNT3,ativo,09.611.768/0001-76,Bovespa Mais
-350,Intermedica,ON,31/12/2020,LaboratÛrio de exames mÈdicos,GNDI3,ativo,19.853.511/0001-84,Novo Mercado
-351,Invepar,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,IVPR3B,ativo,03.758.318/0001-24,Balc„o Organizado
-352,Invest Bemge,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,FIGE3,ativo,01.548.981/0001-79,Tradicional
-353,Investco S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,18589 ON,ativo,00.644.907/0001-93,-
-354,Iochp-Maxion,ON,31/12/2020,Ind˙stria de autopeÁas,MYPK3,ativo,61.156.113/0001-75,Novo Mercado
-355,Irani,ON,31/12/2020,Ind˙stria de papel  celulose e papel„o,RANI3,ativo,92.791.243/0001-03,Novo Mercado
+345,Inds Romi,ON,31/03/2021,Ind√∫stria de m√°quinas industriais,ROMI3,ativo,56.720.428/0001-63,Novo Mercado
+346,Inepar,PN,30/09/2020,Outras outras ind√∫strias,INEP4,ativo,76.627.504/0001-06,Tradicional
+347,Inepar Equip e Montagens S/A,ON,30/09/2020,Outras outras ind√∫strias,17868 ON,ativo,02.258.422/0001-97,-
+348,Intelbras,ON,31/12/2020,Ind√∫stria de equipamentos de comunica√ß√£o,INTB3,ativo,82.901.000/0001-27,Novo Mercado
+349,Inter SA,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,INNT3,ativo,09.611.768/0001-76,Bovespa Mais
+350,Intermedica,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,GNDI3,ativo,19.853.511/0001-84,Novo Mercado
+351,Invepar,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,IVPR3B,ativo,03.758.318/0001-24,Balc√£o Organizado
+352,Invest Bemge,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,FIGE3,ativo,01.548.981/0001-79,Tradicional
+353,Investco S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,18589 ON,ativo,00.644.907/0001-93,-
+354,Iochp-Maxion,ON,31/12/2020,Ind√∫stria de autope√ßas,MYPK3,ativo,61.156.113/0001-75,Novo Mercado
+355,Irani,ON,31/12/2020,Ind√∫stria de papel  celulose e papel√£o,RANI3,ativo,92.791.243/0001-03,Novo Mercado
 356,Irbbrasil Re,ON,31/12/2020,Seguradora e corretora de seguros,IRBR3,ativo,33.376.989/0001-91,Novo Mercado
-357,Isec Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,20818 ON,ativo,08.769.451/0001-08,-
-358,Itapebi GeraÁ„o de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,19364 ON,ativo,02.397.080/0001-96,-
-359,Itausa,PN,31/12/2020,AdministraÁ„o de empresas e empreendimentos,ITSA4,ativo,61.532.644/0001-15,NÌvel 1
-360,ItauUnibanco,PN,31/12/2020,Bancos,ITUB4,ativo,60.872.504/0001-23,NÌvel 1
-361,J B Duarte,PN,31/12/2020,Ind˙stria de alimentos,JBDU4,ativo,60.637.238/0001-54,Tradicional
-362,J. Macedo S/A,ON,31/12/2020,Ind˙stria de alimentos,21156 ON,ativo,14.998.371/0001-19,-
-363,Jallesmachad,ON,31/12/2020,Outras outras ind˙strias,JALL3,ativo,02.635.522/0001-95,Novo Mercado
+357,Isec Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,20818 ON,ativo,08.769.451/0001-08,-
+358,Itapebi Gera√ß√£o de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,19364 ON,ativo,02.397.080/0001-96,-
+359,Itausa,PN,31/12/2020,Administra√ß√£o de empresas e empreendimentos,ITSA4,ativo,61.532.644/0001-15,N√≠vel 1
+360,ItauUnibanco,PN,31/12/2020,Bancos,ITUB4,ativo,60.872.504/0001-23,N√≠vel 1
+361,J B Duarte,PN,31/12/2020,Ind√∫stria de alimentos,JBDU4,ativo,60.637.238/0001-54,Tradicional
+362,J. Macedo S/A,ON,31/12/2020,Ind√∫stria de alimentos,21156 ON,ativo,14.998.371/0001-19,-
+363,Jallesmachad,ON,31/12/2020,Outras outras ind√∫strias,JALL3,ativo,02.635.522/0001-95,Novo Mercado
 364,JBS,ON,31/12/2020,Abatedouros,JBSS3,ativo,02.916.265/0001-60,Novo Mercado
-365,Jereissati,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,JPSA3,ativo,60.543.816/0001-93,Tradicional
-366,JHSF Malls S/A,ON,31/12/2020,Locadora de imÛveis,24473 ON,ativo,07.859.510/0001-68,-
-367,JHSF Part,ON,31/12/2020,ConstruÁ„o,JHSF3,ativo,08.294.224/0001-65,Novo Mercado
-368,Josapar,ON,31/12/2020,Moinho de gr„os,JOPA3,ativo,87.456.562/0001-22,Tradicional
-369,JSL,ON,31/12/2020,Transporte rodovi·rio,JSLG3,ativo,52.548.435/0001-79,Novo Mercado
-370,Kalunga S/A,ON,31/12/2020,Loja de artigos de escritÛrio  papelaria e presentes,25631 ON,ativo,43.283.811/0001-50,-
-371,Karsten,PN,31/12/2020,Ind˙stria de roupas de tecido,CTKA4,ativo,82.640.558/0001-04,Tradicional
-372,Kepler Weber,ON,31/12/2020,Ind˙stria de estruturas met·licas,KEPL3,ativo,91.983.056/0001-69,Tradicional
-373,K-Infra Rodov do AÁo S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22446 ON,ativo,09.414.761/0001-64,-
-374,Klabin S/A,UNT N2,31/12/2020,Ind˙stria de papel  celulose e papel„o,KLBN11,ativo,89.637.490/0001-45,NÌvel 2
-375,Lavvi,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,LAVV3,ativo,26.462.693/0001-28,Novo Mercado
+365,Jereissati,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,JPSA3,ativo,60.543.816/0001-93,Tradicional
+366,JHSF Malls S/A,ON,31/12/2020,Locadora de im√≥veis,24473 ON,ativo,07.859.510/0001-68,-
+367,JHSF Part,ON,31/12/2020,Constru√ß√£o,JHSF3,ativo,08.294.224/0001-65,Novo Mercado
+368,Josapar,ON,31/12/2020,Moinho de gr√£os,JOPA3,ativo,87.456.562/0001-22,Tradicional
+369,JSL,ON,31/12/2020,Transporte rodovi√°rio,JSLG3,ativo,52.548.435/0001-79,Novo Mercado
+370,Kalunga S/A,ON,31/12/2020,Loja de artigos de escrit√≥rio  papelaria e presentes,25631 ON,ativo,43.283.811/0001-50,-
+371,Karsten,PN,31/12/2020,Ind√∫stria de roupas de tecido,CTKA4,ativo,82.640.558/0001-04,Tradicional
+372,Kepler Weber,ON,31/12/2020,Ind√∫stria de estruturas met√°licas,KEPL3,ativo,91.983.056/0001-69,Tradicional
+373,K-Infra Rodov do A√ßo S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22446 ON,ativo,09.414.761/0001-64,-
+374,Klabin S/A,UNT N2,31/12/2020,Ind√∫stria de papel  celulose e papel√£o,KLBN11,ativo,89.637.490/0001-45,N√≠vel 2
+375,Lavvi,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,LAVV3,ativo,26.462.693/0001-28,Novo Mercado
 376,Le Lis Blanc,ON,31/12/2020,Tecelagens,LLIS3,ativo,49.669.856/0001-43,Novo Mercado
-377,Leads Cia Securitizadora,ON,31/12/2020,ServiÁos financeiros e seguros,23558 ON,ativo,21.414.457/0001-12,-
-378,Lg Inform·tica S/A,ON,31/12/2020,Ind˙stria de equipamentos de ·udio e vÌdeo,25666 ON,ativo,01.468.594/0001-22,-
-379,Lifemed,ON,31/12/2020,Ind˙stria de equipamentos e materiais para uso mÈdico,LMED3,ativo,02.357.251/0001-53,Bovespa Mais
-380,Light Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23000 ON,ativo,01.917.818/0001-36,-
-381,Light S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,LIGT3,ativo,03.378.521/0001-75,Novo Mercado
-382,Light Serv de Eletr S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,08036 ON,ativo,60.444.437/0001-46,-
+377,Leads Cia Securitizadora,ON,31/12/2020,Servi√ßos financeiros e seguros,23558 ON,ativo,21.414.457/0001-12,-
+378,Lg Inform√°tica S/A,ON,31/12/2020,Ind√∫stria de equipamentos de √°udio e v√≠deo,25666 ON,ativo,01.468.594/0001-22,-
+379,Lifemed,ON,31/12/2020,Ind√∫stria de equipamentos e materiais para uso m√©dico,LMED3,ativo,02.357.251/0001-53,Bovespa Mais
+380,Light Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23000 ON,ativo,01.917.818/0001-36,-
+381,Light S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,LIGT3,ativo,03.378.521/0001-75,Novo Mercado
+382,Light Serv de Eletr S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,08036 ON,ativo,60.444.437/0001-46,-
 383,Linha Amarela S/A,ON,31/12/2020,Atividades auxiliares ao transporte,24937 ON,ativo,00.974.211/0001-25,-
-384,Linhas de Macap· Trans de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23680 ON,ativo,10.234.027/0001-00,-
-385,Linhas de Xingu Trans de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23671 ON,ativo,10.240.186/0001-00,-
+384,Linhas de Macap√° Trans de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23680 ON,ativo,10.234.027/0001-00,-
+385,Linhas de Xingu Trans de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23671 ON,ativo,10.240.186/0001-00,-
 386,Linx,ON,31/12/2020,Editoras de software,LINX3,ativo,06.948.969/0001-75,Novo Mercado
-387,Litel,ON,31/12/2020,MineraÁ„o de metais,LTEL3B,ativo,00.743.065/0001-27,Balc„o Organizado
-388,Litela,ON,30/09/2020,MineraÁ„o (exceto petrÛleo e g·s),LTLA3B,ativo,05.495.546/0001-84,Balc„o Organizado
-389,Lm Transp Interestaduais Sev e Com S/A,ON,31/12/2020,Locadora de automÛveis,24880 ON,ativo,00.389.481/0001-79,-
-390,Localiza,ON,31/12/2020,Locadora de automÛveis,RENT3,ativo,16.670.085/0001-55,Novo Mercado
-391,Localiza Fleet S/A,ON,31/12/2020,Locadora de automÛveis,024813 ON,ativo,02.286.479/0001-08,-
-392,Locamerica,ON,31/12/2020,Locadora de automÛveis,LCAM3,ativo,10.215.988/0001-60,Novo Mercado
+387,Litel,ON,31/12/2020,Minera√ß√£o de metais,LTEL3B,ativo,00.743.065/0001-27,Balc√£o Organizado
+388,Litela,ON,30/09/2020,Minera√ß√£o (exceto petr√≥leo e g√°s),LTLA3B,ativo,05.495.546/0001-84,Balc√£o Organizado
+389,Lm Transp Interestaduais Sev e Com S/A,ON,31/12/2020,Locadora de autom√≥veis,24880 ON,ativo,00.389.481/0001-79,-
+390,Localiza,ON,31/12/2020,Locadora de autom√≥veis,RENT3,ativo,16.670.085/0001-55,Novo Mercado
+391,Localiza Fleet S/A,ON,31/12/2020,Locadora de autom√≥veis,024813 ON,ativo,02.286.479/0001-08,-
+392,Locamerica,ON,31/12/2020,Locadora de autom√≥veis,LCAM3,ativo,10.215.988/0001-60,Novo Mercado
 393,Locaweb,ON,31/12/2020,Editoras de software,LWSA3,ativo,02.351.877/0001-52,Novo Mercado
-394,Log Com Prop,ON,31/12/2020,ConstruÁ„o,LOGG3,ativo,09.041.168/0001-10,Novo Mercado
+394,Log Com Prop,ON,31/12/2020,Constru√ß√£o,LOGG3,ativo,09.041.168/0001-10,Novo Mercado
 395,Log-In,ON,31/12/2020,Atividades auxiliares ao transporte,LOGN3,ativo,42.278.291/0001-24,Novo Mercado
-396,Logos Cia Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23477 ON,ativo,19.851.496/0001-35,-
-397,Lojas Americ,PN,31/12/2020,Loja de departamentos,LAME4,ativo,33.014.556/0001-96,NÌvel 1
+396,Logos Cia Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23477 ON,ativo,19.851.496/0001-35,-
+397,Lojas Americ,PN,31/12/2020,Loja de departamentos,LAME4,ativo,33.014.556/0001-96,N√≠vel 1
 398,Lojas Arapua,PN,31/12/2019,Outras lojas de mercadorias variadas,LOAR4,cancelado,00.354.053/0001-00,-
 399,Lojas Le Biscuit SA,ON,31/12/2020,Loja de mercadorias variadas,25542 ON,ativo,16.233.389/0001-55,-
 400,Lojas Marisa,ON,31/12/2020,Loja de roupas,AMAR3,ativo,61.189.288/0001-89,Novo Mercado
 401,Lojas Renner,ON,31/12/2020,Loja de roupas,LREN3,ativo,92.754.738/0001-62,Novo Mercado
-402,Lopes Brasil,ON,31/12/2020,Atividades relacionadas a imÛveis,LPSB3,ativo,08.078.847/0001-09,Novo Mercado
+402,Lopes Brasil,ON,31/12/2020,Atividades relacionadas a im√≥veis,LPSB3,ativo,08.078.847/0001-09,Novo Mercado
 403,Lupatech,ON,31/12/2020,Forjarias e estamparias,LUPA3,ativo,89.463.822/0001-12,Novo Mercado
-404,M.Diasbranco,ON,31/12/2020,Outras ind˙strias de alimentos,MDIA3,ativo,07.206.816/0001-15,Novo Mercado
-405,Maestroloc,ON,31/12/2020,Locadora de automÛveis,MSRO3,ativo,08.795.211/0001-70,Bovespa Mais
+404,M.Diasbranco,ON,31/12/2020,Outras ind√∫strias de alimentos,MDIA3,ativo,07.206.816/0001-15,Novo Mercado
+405,Maestroloc,ON,31/12/2020,Locadora de autom√≥veis,MSRO3,ativo,08.795.211/0001-70,Bovespa Mais
 406,Magaz Luiza,ON,31/12/2020,Loja de departamentos,MGLU3,ativo,47.960.950/0001-21,Novo Mercado
 407,Mangels Indl,PN,31/12/2020,Forjarias e estamparias,MGEL4,ativo,61.065.298/0001-02,Tradicional
-408,Marcopolo,PN,31/12/2020,Ind˙stria de carrocerias e trailers,POMO4,ativo,88.611.835/0001-29,NÌvel 2
+408,Marcopolo,PN,31/12/2020,Ind√∫stria de carrocerias e trailers,POMO4,ativo,88.611.835/0001-29,N√≠vel 2
 409,Marfrig,ON,31/12/2020,Abatedouros,MRFG3,ativo,03.853.896/0001-40,Novo Mercado
-410,Marina de Iracema Park S/A,ON,31/12/2020,Hotel e outros tipos de acomodaÁ„o,16268 ON,ativo,07.334.600/0001-35,-
-411,Mater Dei,ON,31/12/2020,ServiÁos ambulatoriais de sa˙de,MATD3,ativo,16.676.520/0001-59,Novo Mercado
-412,Mbk Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22861 ON,ativo,15.688.041/0001-90,-
-413,Melhor SP,ON,31/12/2020,Ind˙stria de produtos de papel e papel„o,MSPA3,ativo,60.730.348/0001-66,Tradicional
-414,Meliuz,ON,31/12/2020,Outros serviÁos de InformaÁ„o,CASH3,ativo,14.110.585/0001-07,Novo Mercado
-415,Melnick,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,MELK3,ativo,12.181.987/0001-77,Novo Mercado
-416,Mendes Jr,PNA,31/12/2020,Outras construÁıes pesadas e de engenharia civil,MEND5,cancelado,17.162.082/0001-73,Tradicional
-417,Menezes Cort,ON,31/12/2020,Outras atividades auxiliares ao transporte,MNZC3B,ativo,02.664.042/0001-52,Balc„o Organizado
-418,Merc Brasil,PN,31/12/2020,Bancos,BMEB4,ativo,17.184.037/0001-10,NÌvel 1
+410,Marina de Iracema Park S/A,ON,31/12/2020,Hotel e outros tipos de acomoda√ß√£o,16268 ON,ativo,07.334.600/0001-35,-
+411,Mater Dei,ON,31/12/2020,Servi√ßos ambulatoriais de sa√∫de,MATD3,ativo,16.676.520/0001-59,Novo Mercado
+412,Mbk Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22861 ON,ativo,15.688.041/0001-90,-
+413,Melhor SP,ON,31/12/2020,Ind√∫stria de produtos de papel e papel√£o,MSPA3,ativo,60.730.348/0001-66,Tradicional
+414,Meliuz,ON,31/12/2020,Outros servi√ßos de Informa√ß√£o,CASH3,ativo,14.110.585/0001-07,Novo Mercado
+415,Melnick,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,MELK3,ativo,12.181.987/0001-77,Novo Mercado
+416,Mendes Jr,PNA,31/12/2020,Outras constru√ß√µes pesadas e de engenharia civil,MEND5,cancelado,17.162.082/0001-73,Tradicional
+417,Menezes Cort,ON,31/12/2020,Outras atividades auxiliares ao transporte,MNZC3B,ativo,02.664.042/0001-52,Balc√£o Organizado
+418,Merc Brasil,PN,31/12/2020,Bancos,BMEB4,ativo,17.184.037/0001-10,N√≠vel 1
 419,Merc Financ,ON,31/12/2020,Bancos,MERC3,ativo,33.040.601/0001-87,Tradicional
 420,Merc Invest,PN,31/12/2020,Bancos,BMIN4,ativo,34.169.557/0001-72,Tradicional
-421,Metal Iguacu,PN,31/12/2020,Outras ind˙strias de produtos de metal,MTIG4,ativo,80.227.184/0001-66,Tradicional
-422,Metal Leve,ON,31/12/2020,Ind˙stria de autopeÁas,LEVE3,ativo,60.476.884/0001-87,Novo Mercado
-423,Metalfrio,ON,31/12/2020,Ind˙stria de equipamentos de refrigeraÁ„o,FRIO3,ativo,04.821.041/0001-08,Novo Mercado
-424,Metanor S/A Metanol do Ne,ON,31/12/2020,Ind˙stria de outros produtos quÌmicos,08745 ON,ativo,16.234.171/0001-15,-
-425,Metisa,PN,31/12/2020,Outras ind˙strias de produtos de metal,MTSA4,ativo,86.375.425/0001-09,Tradicional
-426,Mgi Minas Gerais Part SA,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,22942 ON,ativo,19.296.342/0001-29,-
-427,Mills,ON,31/12/2020,ServiÁos de engenharia e arquitetura,MILS3,ativo,27.093.558/0001-15,Novo Mercado
-428,Minasmaquinas,PN,31/12/2020,Concession·rias de outros veÌculos motorizados,MMAQ4,ativo,17.161.241/0001-15,Tradicional
+421,Metal Iguacu,PN,31/12/2020,Outras ind√∫strias de produtos de metal,MTIG4,ativo,80.227.184/0001-66,Tradicional
+422,Metal Leve,ON,31/12/2020,Ind√∫stria de autope√ßas,LEVE3,ativo,60.476.884/0001-87,Novo Mercado
+423,Metalfrio,ON,31/12/2020,Ind√∫stria de equipamentos de refrigera√ß√£o,FRIO3,ativo,04.821.041/0001-08,Novo Mercado
+424,Metanor S/A Metanol do Ne,ON,31/12/2020,Ind√∫stria de outros produtos qu√≠micos,08745 ON,ativo,16.234.171/0001-15,-
+425,Metisa,PN,31/12/2020,Outras ind√∫strias de produtos de metal,MTSA4,ativo,86.375.425/0001-09,Tradicional
+426,Mgi Minas Gerais Part SA,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,22942 ON,ativo,19.296.342/0001-29,-
+427,Mills,ON,31/12/2020,Servi√ßos de engenharia e arquitetura,MILS3,ativo,27.093.558/0001-15,Novo Mercado
+428,Minasmaquinas,PN,31/12/2020,Concession√°rias de outros ve√≠culos motorizados,MMAQ4,ativo,17.161.241/0001-15,Tradicional
 429,Minerva,ON,31/12/2020,Abatedouros,BEEF3,ativo,67.620.377/0001-14,Novo Mercado
 430,Minupar,ON,31/12/2020,Abatedouros,MNPR3,ativo,90.076.886/0001-40,Tradicional
-431,Mississipi Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,25151 ON,ativo,37.592.100/0001-64,-
-432,Mitre,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,MTRE3,ativo,07.882.930/0001-65,Novo Mercado
-433,Mlog S/A,ON,30/09/2020,AdministraÁ„o de empresas e empreendimentos,22586 ON,ativo,13.444.994/0001-87,-
-434,MMX Miner,ON,31/12/2020,MineraÁ„o de metais,MMXM3,ativo,02.762.115/0001-49,Novo Mercado
-435,Mobly,ON,31/12/2020,Vendas por correio ou meio eletrÙnico,MBLY3,ativo,31.553.627/0001-01,Novo Mercado
-436,Mont Aranha,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,MOAR3,ativo,33.102.476/0001-92,Tradicional
-437,Mosaico SA,ON,31/12/2020,Vendas por correio ou meio eletrÙnico,MOSI3,ativo,09.083.175/0001-84,Novo Mercado
-438,Moura Dubeux,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,MDNE3,ativo,12.049.631/0001-84,Novo Mercado
-439,Movida,ON,31/03/2021,Locadora de automÛveis,MOVI3,ativo,21.314.559/0001-66,Novo Mercado
-440,Mrs Logist,ON,31/12/2020,Transporte ferrovi·rio,MRSA3B,ativo,01.417.222/0001-77,Balc„o Organizado
-441,MRV,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,MRVE3,ativo,08.343.492/0001-20,Novo Mercado
-442,Multiner S/A,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,21520 ON,cancelado,08.935.054/0001-50,-
-443,Multiplan,ON,31/12/2020,Locadora de imÛveis,MULT3,ativo,07.816.890/0001-53,NÌvel 2
-444,Mundial,ON,31/12/2020,Ind˙stria de ferragens,MNDL3,ativo,88.610.191/0001-54,Tradicional
+431,Mississipi Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,25151 ON,ativo,37.592.100/0001-64,-
+432,Mitre,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,MTRE3,ativo,07.882.930/0001-65,Novo Mercado
+433,Mlog S/A,ON,30/09/2020,Administra√ß√£o de empresas e empreendimentos,22586 ON,ativo,13.444.994/0001-87,-
+434,MMX Miner,ON,31/12/2020,Minera√ß√£o de metais,MMXM3,ativo,02.762.115/0001-49,Novo Mercado
+435,Mobly,ON,31/12/2020,Vendas por correio ou meio eletr√¥nico,MBLY3,ativo,31.553.627/0001-01,Novo Mercado
+436,Mont Aranha,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,MOAR3,ativo,33.102.476/0001-92,Tradicional
+437,Mosaico SA,ON,31/12/2020,Vendas por correio ou meio eletr√¥nico,MOSI3,ativo,09.083.175/0001-84,Novo Mercado
+438,Moura Dubeux,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,MDNE3,ativo,12.049.631/0001-84,Novo Mercado
+439,Movida,ON,31/03/2021,Locadora de autom√≥veis,MOVI3,ativo,21.314.559/0001-66,Novo Mercado
+440,Mrs Logist,ON,31/12/2020,Transporte ferrovi√°rio,MRSA3B,ativo,01.417.222/0001-77,Balc√£o Organizado
+441,MRV,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,MRVE3,ativo,08.343.492/0001-20,Novo Mercado
+442,Multiner S/A,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,21520 ON,cancelado,08.935.054/0001-50,-
+443,Multiplan,ON,31/12/2020,Locadora de im√≥veis,MULT3,ativo,07.816.890/0001-53,N√≠vel 2
+444,Mundial,ON,31/12/2020,Ind√∫stria de ferragens,MNDL3,ativo,88.610.191/0001-54,Tradicional
 445,Nacional,PN,31/12/1995,Bancos,BNAC4,cancelado,17.157.777/0001-67,-
-446,Natura Cosmeticos S/A,ON,-,ComÈrcio atacadista de bens n„o dur·veis variados,19550 ON,ativo,71.673.990/0001-77,-
-447,Ncf ParticipaÁıes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,24015 ON,ativo,04.233.319/0001-18,-
-448,Neoenergia,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,NEOE3,ativo,01.083.200/0001-18,Novo Mercado
+446,Natura Cosmeticos S/A,ON,-,Com√©rcio atacadista de bens n√£o dur√°veis variados,19550 ON,ativo,71.673.990/0001-77,-
+447,Ncf Participa√ß√µes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,24015 ON,ativo,04.233.319/0001-18,-
+448,Neoenergia,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,NEOE3,ativo,01.083.200/0001-18,Novo Mercado
 449,Neogrid,ON,31/12/2020,Editoras de software,NGRD3,ativo,10.139.870/0001-08,Novo Mercado
-450,Neumarkt Trade And Fin S/A,ON,31/12/2020,ConstruÁ„o,14613 ON,ativo,00.192.769/0001-59,-
-451,Newtel Part,ON,31/12/2018,TelecomunicaÁıes,NEWT3B,cancelado,02.604.997/0001-14,Balc„o Organizado
+450,Neumarkt Trade And Fin S/A,ON,31/12/2020,Constru√ß√£o,14613 ON,ativo,00.192.769/0001-59,-
+451,Newtel Part,ON,31/12/2018,Telecomunica√ß√µes,NEWT3B,cancelado,02.604.997/0001-14,Balc√£o Organizado
 452,Nord Brasil,ON,31/12/2020,Bancos,BNBR3,ativo,07.237.373/0001-20,Tradicional
-453,Nordon Met,ON,31/12/2020,Ind˙stria de outros tipos de m·quinas,NORD3,ativo,60.884.319/0001-59,Tradicional
-454,Nortcquimica,ON,31/12/2020,Ind˙stria de remÈdios,NRTQ3,ativo,29.950.060/0001-57,Bovespa Mais
-455,Norte Brasil Transm de Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24988 ON,ativo,09.625.321/0001-56,-
-456,Norte Energia SA,ON,31/03/2021,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,25097 ON,ativo,12.300.288/0001-07,-
-457,Nova Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23906 ON,ativo,15.377.572/0001-61,-
-458,Nova Transportadora do Sudeste S/A - Nts,ON,31/12/2020,Transporte de g·s natural por tubos,24708 ON,ativo,04.992.714/0001-84,-
-459,Nutriplant,ON,31/12/2020,Ind˙stria de fertilizantes e pesticidas,NUTR3,ativo,51.128.999/0001-90,Bovespa Mais
-460,Oceana Offshore S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,23620 ON,ativo,14.882.295/0001-81,-
-461,Oceanpact,ON,31/12/2020,MineraÁ„o  exploraÁ„o de pedreiras e extraÁ„o de petrÛleo e g·s,OPCT3,ativo,09.114.805/0001-30,Novo Mercado
-462,Octante Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22390 ON,ativo,12.139.922/0001-63,-
-463,Oderich,PN,31/12/2020,Ind˙stria de frutas e vegetais em conserva e comidas especiais,ODER4,ativo,97.191.902/0001-94,Tradicional
-464,Odontoprev,ON,31/12/2020,ConsultÛrio odontolÛgico,ODPV3,ativo,58.119.199/0001-51,Novo Mercado
-465,Oi,ON,31/12/2020,TelecomunicaÁıes,OIBR3,ativo,76.535.764/0001-43,NÌvel 1
-466,Omega Ger,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,OMGE3,ativo,09.149.503/0001-06,Novo Mercado
-467,Opport Energ,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,OPHE3B,ativo,02.318.346/0001-68,Balc„o Organizado
-468,Orizon,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,ORVR3,ativo,11.421.994/0001-36,Novo Mercado
+453,Nordon Met,ON,31/12/2020,Ind√∫stria de outros tipos de m√°quinas,NORD3,ativo,60.884.319/0001-59,Tradicional
+454,Nortcquimica,ON,31/12/2020,Ind√∫stria de rem√©dios,NRTQ3,ativo,29.950.060/0001-57,Bovespa Mais
+455,Norte Brasil Transm de Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24988 ON,ativo,09.625.321/0001-56,-
+456,Norte Energia SA,ON,31/03/2021,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,25097 ON,ativo,12.300.288/0001-07,-
+457,Nova Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23906 ON,ativo,15.377.572/0001-61,-
+458,Nova Transportadora do Sudeste S/A - Nts,ON,31/12/2020,Transporte de g√°s natural por tubos,24708 ON,ativo,04.992.714/0001-84,-
+459,Nutriplant,ON,31/12/2020,Ind√∫stria de fertilizantes e pesticidas,NUTR3,ativo,51.128.999/0001-90,Bovespa Mais
+460,Oceana Offshore S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,23620 ON,ativo,14.882.295/0001-81,-
+461,Oceanpact,ON,31/12/2020,Minera√ß√£o  explora√ß√£o de pedreiras e extra√ß√£o de petr√≥leo e g√°s,OPCT3,ativo,09.114.805/0001-30,Novo Mercado
+462,Octante Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22390 ON,ativo,12.139.922/0001-63,-
+463,Oderich,PN,31/12/2020,Ind√∫stria de frutas e vegetais em conserva e comidas especiais,ODER4,ativo,97.191.902/0001-94,Tradicional
+464,Odontoprev,ON,31/12/2020,Consult√≥rio odontol√≥gico,ODPV3,ativo,58.119.199/0001-51,Novo Mercado
+465,Oi,ON,31/12/2020,Telecomunica√ß√µes,OIBR3,ativo,76.535.764/0001-43,N√≠vel 1
+466,Omega Ger,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,OMGE3,ativo,09.149.503/0001-06,Novo Mercado
+467,Opport Energ,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,OPHE3B,ativo,02.318.346/0001-68,Balc√£o Organizado
+468,Orizon,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,ORVR3,ativo,11.421.994/0001-36,Novo Mercado
 469,OSX Brasil,ON,31/12/2020,Estaleiros,OSXB3,ativo,09.112.685/0001-32,Novo Mercado
-470,Ourinvest Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22250 ON,ativo,12.320.349/0001-90,-
-471,Ouro Verde Loc e Serv SA,ON,31/12/2020,Locadora de automÛveis,23280 ON,ativo,75.609.123/0001-23,-
-472,Ourofino S/A,ON,31/12/2020,Ind˙stria de remÈdios,OFSA3,ativo,20.258.278/0001-70,Novo Mercado
+470,Ourinvest Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22250 ON,ativo,12.320.349/0001-90,-
+471,Ouro Verde Loc e Serv SA,ON,31/12/2020,Locadora de autom√≥veis,23280 ON,ativo,75.609.123/0001-23,-
+472,Ourofino S/A,ON,31/12/2020,Ind√∫stria de rem√©dios,OFSA3,ativo,20.258.278/0001-70,Novo Mercado
 473,P.Acucar-Cbd,ON,31/12/2020,Loja de departamentos,PCAR3,ativo,47.508.411/0001-56,Novo Mercado
-474,Pacaembu Construtora S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,25143 ON,ativo,96.298.013/0001-68,-
+474,Pacaembu Construtora S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,25143 ON,ativo,96.298.013/0001-68,-
 475,Padtec,ON,31/12/2020,Editoras de software,PDTC3,ativo,02.365.069/0001-44,Tradicional
 476,Pague Menos,ON,31/12/2020,Loja de mercadorias variadas,PGMN3,ativo,06.626.253/0001-51,Novo Mercado
-477,Panamericano Arrend Merc S/A,ON,31/12/2020,Atividades relacionadas ‡ intermediaÁ„o de crÈdito,18554 ON,ativo,02.682.287/0001-02,-
-478,Panatlantica,ON,31/12/2020,TransformaÁ„o de aÁo em produtos de aÁo,PATI3,ativo,92.693.019/0001-89,Tradicional
-479,Par Al Bahia,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,PEAB3,ativo,01.938.783/0001-11,Tradicional
+477,Panamericano Arrend Merc S/A,ON,31/12/2020,Atividades relacionadas √† intermedia√ß√£o de cr√©dito,18554 ON,ativo,02.682.287/0001-02,-
+478,Panatlantica,ON,31/12/2020,Transforma√ß√£o de a√ßo em produtos de a√ßo,PATI3,ativo,92.693.019/0001-89,Tradicional
+479,Par Al Bahia,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,PEAB3,ativo,01.938.783/0001-11,Tradicional
 480,Parana,PN,31/12/2020,Bancos,PRBC4,cancelado,14.388.334/0001-99,Tradicional
-481,Participacoes Ind do Nordeste S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,01597 ON,ativo,14.308.514/0001-13,-
-482,Patria Cia Sec de Cred Imob,ON,31/12/2020,ServiÁos financeiros e seguros,18236 ON,ativo,02.736.470/0001-43,-
-483,Paul F Luz,PNC,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,PALF7,cancelado,33.050.196/0001-88,-
-484,PDG Cia Securitizadora,ON,31/12/2020,ServiÁos financeiros e seguros,21644 ON,ativo,09.538.973/0001-53,-
-485,PDG Realt,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,PDGR3,ativo,02.950.811/0001-89,Novo Mercado
-486,Pet Manguinh,ON,31/12/2020,Ind˙stria de produtos de petrÛleo e carv„o,RPMG3,ativo,33.412.081/0001-96,Tradicional
-487,Petrobras,PN,31/12/2020,ExtraÁ„o de petrÛleo e g·s,PETR4,ativo,33.000.167/0001-01,NÌvel 2
-488,Petrobras BR,ON,31/12/2020,ComÈrcio atacadista de petrÛleo e produtos de petrÛleo,BRDT3,ativo,34.274.233/0001-02,Novo Mercado
-489,Petroleo Lub do Nordeste S/A,ON,31/12/2020,ExtraÁ„o de petrÛleo e g·s,09520 ON,ativo,07.275.159/0001-68,-
-490,Petrorio,ON,31/12/2020,ExtraÁ„o de petrÛleo e g·s,PRIO3,ativo,10.629.105/0001-68,Novo Mercado
+481,Participacoes Ind do Nordeste S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,01597 ON,ativo,14.308.514/0001-13,-
+482,Patria Cia Sec de Cred Imob,ON,31/12/2020,Servi√ßos financeiros e seguros,18236 ON,ativo,02.736.470/0001-43,-
+483,Paul F Luz,PNC,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,PALF7,cancelado,33.050.196/0001-88,-
+484,PDG Cia Securitizadora,ON,31/12/2020,Servi√ßos financeiros e seguros,21644 ON,ativo,09.538.973/0001-53,-
+485,PDG Realt,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,PDGR3,ativo,02.950.811/0001-89,Novo Mercado
+486,Pet Manguinh,ON,31/12/2020,Ind√∫stria de produtos de petr√≥leo e carv√£o,RPMG3,ativo,33.412.081/0001-96,Tradicional
+487,Petrobras,PN,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,PETR4,ativo,33.000.167/0001-01,N√≠vel 2
+488,Petrobras BR,ON,31/12/2020,Com√©rcio atacadista de petr√≥leo e produtos de petr√≥leo,BRDT3,ativo,34.274.233/0001-02,Novo Mercado
+489,Petroleo Lub do Nordeste S/A,ON,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,09520 ON,ativo,07.275.159/0001-68,-
+490,Petrorio,ON,31/12/2020,Extra√ß√£o de petr√≥leo e g√°s,PRIO3,ativo,10.629.105/0001-68,Novo Mercado
 491,Pettenati,ON,31/12/2020,Tecelagens,PTNT3,ativo,88.613.658/0001-10,Tradicional
-492,Petz,ON,31/12/2020,ComÈrcio atacadista de bens n„o dur·veis variados,PETZ3,ativo,18.328.118/0001-09,Novo Mercado
-493,Pine,PN,31/12/2020,Bancos,PINE4,ativo,62.144.175/0001-20,NÌvel 2
-494,Pjbank Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24791 ON,ativo,33.679.797/0001-54,-
-495,Planoeplano,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,PLPL3,ativo,24.230.275/0001-80,Novo Mercado
-496,Plascar Part,ON,31/12/2020,Ind˙stria de autopeÁas,PLAS3,ativo,51.928.174/0001-50,Tradicional
-497,Polo Capital Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22160 ON,ativo,12.261.588/0001-16,-
-498,Polpar,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,PPAR3,ativo,59.789.545/0001-71,Tradicional
+492,Petz,ON,31/12/2020,Com√©rcio atacadista de bens n√£o dur√°veis variados,PETZ3,ativo,18.328.118/0001-09,Novo Mercado
+493,Pine,PN,31/12/2020,Bancos,PINE4,ativo,62.144.175/0001-20,N√≠vel 2
+494,Pjbank Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24791 ON,ativo,33.679.797/0001-54,-
+495,Planoeplano,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,PLPL3,ativo,24.230.275/0001-80,Novo Mercado
+496,Plascar Part,ON,31/12/2020,Ind√∫stria de autope√ßas,PLAS3,ativo,51.928.174/0001-50,Tradicional
+497,Polo Capital Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22160 ON,ativo,12.261.588/0001-16,-
+498,Polpar,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,PPAR3,ativo,59.789.545/0001-71,Tradicional
 499,Pomifrutas,ON,31/12/2020,Cultivo de frutas e nozes,FRTA3,ativo,86.550.951/0001-50,Novo Mercado
 500,Porto Seguro,ON,31/12/2020,Seguradora,PSSA3,ativo,02.149.205/0001-69,Novo Mercado
-501,Porto Sudeste V. M. S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,23523 ON,ativo,18.494.485/0001-82,-
-502,Portobello,ON,31/12/2020,Ind˙stria de produtos de cer‚mica e refrat·rios,PTBL3,ativo,83.475.913/0001-91,Novo Mercado
-503,Portuense Ferragens S/A,ON,31/12/2020,ConstruÁ„o,09717 ON,ativo,04.912.242/0001-02,-
-504,Positivo Tec,ON,31/12/2020,Ind˙stria de computadores e perifÈricos,POSI3,ativo,81.243.735/0001-48,Novo Mercado
-505,Pratica,ON,31/12/2020,Ind˙stria de eletrodomÈsticos,PTCA3,ativo,08.574.411/0001-00,Bovespa Mais NÌvel 2
-506,Pratimar Engenharia S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,25305 ON,ativo,23.236.821/0001-27,-
-507,Priner,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,PRNR3,ativo,18.593.815/0001-97,Novo Mercado
-508,Profarma,ON,31/12/2020,ComÈrcio atacadista de remÈdios,PFRM3,ativo,45.453.214/0001-51,Novo Mercado
-509,Prolagos S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,23469 ON,ativo,02.382.073/0001-10,-
-510,Proman,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,PRMN3B,cancelado,02.291.077/0001-93,Balc„o Organizado
-511,Prompt,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,PRPT3B,ativo,02.992.449/0001-09,Balc„o Organizado
-512,Qualicorp,ON,31/12/2020,Outros serviÁos ambulatoriais de sa˙de,QUAL3,ativo,11.992.680/0001-93,Novo Mercado
+501,Porto Sudeste V. M. S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,23523 ON,ativo,18.494.485/0001-82,-
+502,Portobello,ON,31/12/2020,Ind√∫stria de produtos de cer√¢mica e refrat√°rios,PTBL3,ativo,83.475.913/0001-91,Novo Mercado
+503,Portuense Ferragens S/A,ON,31/12/2020,Constru√ß√£o,09717 ON,ativo,04.912.242/0001-02,-
+504,Positivo Tec,ON,31/12/2020,Ind√∫stria de computadores e perif√©ricos,POSI3,ativo,81.243.735/0001-48,Novo Mercado
+505,Pratica,ON,31/12/2020,Ind√∫stria de eletrodom√©sticos,PTCA3,ativo,08.574.411/0001-00,Bovespa Mais N√≠vel 2
+506,Pratimar Engenharia S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,25305 ON,ativo,23.236.821/0001-27,-
+507,Priner,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,PRNR3,ativo,18.593.815/0001-97,Novo Mercado
+508,Profarma,ON,31/12/2020,Com√©rcio atacadista de rem√©dios,PFRM3,ativo,45.453.214/0001-51,Novo Mercado
+509,Prolagos S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,23469 ON,ativo,02.382.073/0001-10,-
+510,Proman,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,PRMN3B,cancelado,02.291.077/0001-93,Balc√£o Organizado
+511,Prompt,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,PRPT3B,ativo,02.992.449/0001-09,Balc√£o Organizado
+512,Qualicorp,ON,31/12/2020,Outros servi√ßos ambulatoriais de sa√∫de,QUAL3,ativo,11.992.680/0001-93,Novo Mercado
 513,Quality Soft,ON,31/12/2020,Editoras de software,QUSW3,ativo,35.791.391/0001-94,Bovespa Mais
 514,Quero-Quero,ON,31/12/2020,Outras lojas de mercadorias variadas,LJQQ3,ativo,96.418.264/0218-02,Novo Mercado
-515,RaiaDrogasil,ON,31/12/2020,Loja de artigos para sa˙de e cuidados pessoais,RADL3,ativo,61.585.865/0001-51,Novo Mercado
-516,Raizen Energia SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23230 ON,ativo,08.070.508/0001-78,-
-517,Randon Part,PN,31/12/2020,Ind˙stria de carrocerias e trailers,RAPT4,ativo,89.086.144/0001-16,NÌvel 1
-518,Rb Capital Cia de Securitizacao,ON,31/12/2020,ServiÁos financeiros e seguros,18406 ON,ativo,02.773.542/0001-22,-
-519,Reag Securities - Sec de Cred Imob S/A,ON,31/12/2020,ServiÁos financeiros e seguros,23760 ON,ativo,20.451.953/0001-83,-
-520,Real Ai Pic Sec de Cred Imob S/A,ON,31/12/2020,ServiÁos financeiros e seguros,18430 ON,ativo,02.643.896/0001-52,-
-521,Recrusul,ON,31/12/2020,Ind˙stria de carrocerias e trailers,RCSL3,ativo,91.333.666/0001-17,Tradicional
-522,Rede D Or,ON,31/12/2020,LaboratÛrio de exames mÈdicos,RDOR3,ativo,06.047.087/0001-39,Novo Mercado
-523,Rede Energia,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,REDE3,ativo,61.584.140/0001-49,Tradicional
-524,Reit Secur de Rerc Imob S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22802 ON,ativo,13.349.677/0001-81,-
-525,Renova,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,RNEW4,ativo,08.534.605/0001-74,NÌvel 2
-526,Rio Alto Energias Renov·veis S/A,,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,25720 ON,ativo,38.199.406/0001-18,-
-527,Rio Parana Energia S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,25623 ON,ativo,23.096.269/0001-19,-
-528,Rioloan 2 Cia Sec de Cred Financeiros,ON,31/12/2020,ServiÁos financeiros e seguros,24368 ON,ativo,28.442.718/0001-57,-
-529,Riosulense,PN,31/12/2020,Ind˙stria de autopeÁas,RSUL4,ativo,85.778.074/0001-06,Tradicional
-530,Riva 9 Empreend Imobili·rios S/A,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,24996 ON,ativo,13.457.942/0001-45,-
-531,Rni,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,RDNI3,ativo,67.010.660/0001-24,Novo Mercado
-532,Rodonorte - Concess Rod. Integradas S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,19151 ON,ativo,02.221.531/0001-30,-
-533,Rodovias Das Colinas SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23167 ON,ativo,03.025.305/0001-46,-
-534,Romaxis Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24686 ON,ativo,29.088.092/0001-95,-
-535,Rossi Resid,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,RSID3,ativo,61.065.751/0001-80,Novo Mercado
-536,Rumo Malha Paulista S/A,ON,31/12/2020,Transporte ferrovi·rio,17930 ON,ativo,02.502.844/0001-66,-
-537,Rumo S.A.,ON,31/12/2020,Transporte ferrovi·rio,RAIL3,ativo,02.387.241/0001-60,Novo Mercado
-538,Saber ServiÁos Educacionais S/A,ON,31/12/2020,Educac„o,24490 ON,ativo,03.818.379/0001-30,-
-539,Sabesp,ON,31/12/2020,¡gua  esgoto e outros sistemas,SBSP3,ativo,43.776.517/0001-80,Novo Mercado
-540,Salus Infra Protuaria S/A,ON,31/12/2020,ServiÁo de armazenamento,23540 ON,ativo,15.494.541/0001-90,-
-541,Sanasa - Soc de Abast de Agua e Saneamento S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,16241 ON,ativo,46.119.855/0001-37,-
-542,Saneamento de Goias S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,19186 ON,ativo,01.616.929/0001-02,-
-543,Saneatins - Cia de Saneamento do Tocantins,ON,31/12/2020,¡gua  esgoto e outros sistemas,23809 ON,ativo,25.089.509/0001-83,-
-544,Sanepar,UNT N2,31/12/2020,¡gua  esgoto e outros sistemas,SAPR11,ativo,76.484.013/0001-45,NÌvel 2
-545,Sanesalto Saneamento S/A,ON,31/12/2020,¡gua  esgoto e outros sistemas,19593 ON,ativo,02.724.983/0001-34,-
-546,Sansuy,PNA,31/12/2020,Ind˙stria de produtos de pl·stico,SNSY5,ativo,14.807.945/0001-24,Tradicional
-547,Santa Catarina Part Invest S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,15199 ON,ativo,00.897.864/0001-58,-
+515,RaiaDrogasil,ON,31/12/2020,Loja de artigos para sa√∫de e cuidados pessoais,RADL3,ativo,61.585.865/0001-51,Novo Mercado
+516,Raizen Energia SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23230 ON,ativo,08.070.508/0001-78,-
+517,Randon Part,PN,31/12/2020,Ind√∫stria de carrocerias e trailers,RAPT4,ativo,89.086.144/0001-16,N√≠vel 1
+518,Rb Capital Cia de Securitizacao,ON,31/12/2020,Servi√ßos financeiros e seguros,18406 ON,ativo,02.773.542/0001-22,-
+519,Reag Securities - Sec de Cred Imob S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,23760 ON,ativo,20.451.953/0001-83,-
+520,Real Ai Pic Sec de Cred Imob S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,18430 ON,ativo,02.643.896/0001-52,-
+521,Recrusul,ON,31/12/2020,Ind√∫stria de carrocerias e trailers,RCSL3,ativo,91.333.666/0001-17,Tradicional
+522,Rede D Or,ON,31/12/2020,Laborat√≥rio de exames m√©dicos,RDOR3,ativo,06.047.087/0001-39,Novo Mercado
+523,Rede Energia,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,REDE3,ativo,61.584.140/0001-49,Tradicional
+524,Reit Secur de Rerc Imob S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22802 ON,ativo,13.349.677/0001-81,-
+525,Renova,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,RNEW4,ativo,08.534.605/0001-74,N√≠vel 2
+526,Rio Alto Energias Renov√°veis S/A,,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,25720 ON,ativo,38.199.406/0001-18,-
+527,Rio Parana Energia S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,25623 ON,ativo,23.096.269/0001-19,-
+528,Rioloan 2 Cia Sec de Cred Financeiros,ON,31/12/2020,Servi√ßos financeiros e seguros,24368 ON,ativo,28.442.718/0001-57,-
+529,Riosulense,PN,31/12/2020,Ind√∫stria de autope√ßas,RSUL4,ativo,85.778.074/0001-06,Tradicional
+530,Riva 9 Empreend Imobili√°rios S/A,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,24996 ON,ativo,13.457.942/0001-45,-
+531,Rni,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,RDNI3,ativo,67.010.660/0001-24,Novo Mercado
+532,Rodonorte - Concess Rod. Integradas S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,19151 ON,ativo,02.221.531/0001-30,-
+533,Rodovias Das Colinas SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23167 ON,ativo,03.025.305/0001-46,-
+534,Romaxis Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24686 ON,ativo,29.088.092/0001-95,-
+535,Rossi Resid,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,RSID3,ativo,61.065.751/0001-80,Novo Mercado
+536,Rumo Malha Paulista S/A,ON,31/12/2020,Transporte ferrovi√°rio,17930 ON,ativo,02.502.844/0001-66,-
+537,Rumo S.A.,ON,31/12/2020,Transporte ferrovi√°rio,RAIL3,ativo,02.387.241/0001-60,Novo Mercado
+538,Saber Servi√ßos Educacionais S/A,ON,31/12/2020,Educac√£o,24490 ON,ativo,03.818.379/0001-30,-
+539,Sabesp,ON,31/12/2020,√Ågua  esgoto e outros sistemas,SBSP3,ativo,43.776.517/0001-80,Novo Mercado
+540,Salus Infra Protuaria S/A,ON,31/12/2020,Servi√ßo de armazenamento,23540 ON,ativo,15.494.541/0001-90,-
+541,Sanasa - Soc de Abast de Agua e Saneamento S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,16241 ON,ativo,46.119.855/0001-37,-
+542,Saneamento de Goias S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,19186 ON,ativo,01.616.929/0001-02,-
+543,Saneatins - Cia de Saneamento do Tocantins,ON,31/12/2020,√Ågua  esgoto e outros sistemas,23809 ON,ativo,25.089.509/0001-83,-
+544,Sanepar,UNT N2,31/12/2020,√Ågua  esgoto e outros sistemas,SAPR11,ativo,76.484.013/0001-45,N√≠vel 2
+545,Sanesalto Saneamento S/A,ON,31/12/2020,√Ågua  esgoto e outros sistemas,19593 ON,ativo,02.724.983/0001-34,-
+546,Sansuy,PNA,31/12/2020,Ind√∫stria de produtos de pl√°stico,SNSY5,ativo,14.807.945/0001-24,Tradicional
+547,Santa Catarina Part Invest S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,15199 ON,ativo,00.897.864/0001-58,-
 548,Santander BR,UNT,31/12/2020,Bancos,SANB11,ativo,90.400.888/0001-42,Tradicional
 549,Santanense,ON,31/12/2020,Tecelagens,CTSA3,ativo,21.255.567/0001-89,Tradicional
-550,Santo Antonio Energia SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23388 ON,ativo,09.391.823/0001-60,-
-551,Santos Brp,ON,31/12/2020,Atividades auxiliares ao transporte aqu·tico,STBP3,ativo,02.762.121/0001-04,Novo Mercado
-552,Sao Carlos,ON,31/12/2020,Locadora de imÛveis,SCAR3,ativo,29.780.061/0001-09,Novo Mercado
-553,Sao Martinho,ON,31/12/2020,Outras outras ind˙strias,SMTO3,ativo,51.466.860/0001-56,Novo Mercado
-554,Saraiva Livr,PN,31/12/2020,Editoras de jornais  revistas  livros e similares,SLED4,ativo,60.500.139/0001-26,NÌvel 2
+550,Santo Antonio Energia SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23388 ON,ativo,09.391.823/0001-60,-
+551,Santos Brp,ON,31/12/2020,Atividades auxiliares ao transporte aqu√°tico,STBP3,ativo,02.762.121/0001-04,Novo Mercado
+552,Sao Carlos,ON,31/12/2020,Locadora de im√≥veis,SCAR3,ativo,29.780.061/0001-09,Novo Mercado
+553,Sao Martinho,ON,31/12/2020,Outras outras ind√∫strias,SMTO3,ativo,51.466.860/0001-56,Novo Mercado
+554,Saraiva Livr,PN,31/12/2020,Editoras de jornais  revistas  livros e similares,SLED4,ativo,60.500.139/0001-26,N√≠vel 2
 555,Sbf Com de Prod Esportivos SA,ON,31/12/2020,Loja de artigos esportivos e instrumentos musicais,25410 ON,ativo,06.347.409/0001-65,-
 556,Schlosser,PN,31/12/2020,Tecelagens,SCLO4,cancelado,82.981.929/0001-03,Tradicional
-557,Schulz,PN,31/12/2020,Ind˙stria de autopeÁas,SHUL4,ativo,84.693.183/0001-68,Tradicional
+557,Schulz,PN,31/12/2020,Ind√∫stria de autope√ßas,SHUL4,ativo,84.693.183/0001-68,Tradicional
 558,Seg Al Bahia,ON,31/12/2020,Seguradora,CSAB3,ativo,15.144.017/0001-90,Tradicional
-559,Seiva S/A - Florestas e Ind˙strias,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,10561 ON,ativo,87.043.832/0001-73,-
-560,Seneca Companhia Securitizadora,ON,31/12/2020,ServiÁos financeiros e seguros,23698 ON,ativo,22.495.265/0001-40,-
-561,Sequoia Log,ON,31/12/2020,Transporte rodovi·rio,SEQL3,ativo,01.599.101/0001-93,Novo Mercado
+559,Seiva S/A - Florestas e Ind√∫strias,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,10561 ON,ativo,87.043.832/0001-73,-
+560,Seneca Companhia Securitizadora,ON,31/12/2020,Servi√ßos financeiros e seguros,23698 ON,ativo,22.495.265/0001-40,-
+561,Sequoia Log,ON,31/12/2020,Transporte rodovi√°rio,SEQL3,ativo,01.599.101/0001-93,Novo Mercado
 562,Ser Educa,ON,31/12/2020,Escola de ensino superior,SEER3,ativo,04.986.320/0001-13,Novo Mercado
-563,Serra Azul Water Park S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,14966 ON,ativo,00.545.378/0001-70,-
-564,Sid Nacional,ON,31/12/2020,TransformaÁ„o de aÁo em produtos de aÁo,CSNA3,ativo,33.042.730/0001-04,Tradicional
-565,Simpar,ON,31/12/2020,Transporte rodovi·rio,SIMH3,ativo,07.415.333/0001-20,Novo Mercado
+563,Serra Azul Water Park S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,14966 ON,ativo,00.545.378/0001-70,-
+564,Sid Nacional,ON,31/12/2020,Transforma√ß√£o de a√ßo em produtos de a√ßo,CSNA3,ativo,33.042.730/0001-04,Tradicional
+565,Simpar,ON,31/12/2020,Transporte rodovi√°rio,SIMH3,ativo,07.415.333/0001-20,Novo Mercado
 566,Sinqia,ON,31/12/2020,Editoras de software,SQIA3,ativo,04.065.791/0001-99,Novo Mercado
 567,SLC Agricola,ON,31/12/2020,Agricultura,SLCE3,ativo,89.096.457/0001-55,Novo Mercado
-568,Smart Fit,ON,31/12/2020,Outras ind˙strias da recreaÁ„o,SMFT3,ativo,07.594.978/0001-78,Bovespa Mais NÌvel 2
-569,Smiles,ON,31/03/2021,Outros serviÁos de apoio,SMLS3,ativo,05.730.375/0001-20,Novo Mercado
-570,Snb Participacoes S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,14303 ON,ativo,73.903.718/0001-61,-
-571,Sondotecnica,PNA,31/12/2020,Consultoria administrativa  cientÌfica e tÈcnica,SOND5,ativo,33.386.210/0001-19,Tradicional
-572,Springs,ON,31/12/2020,Ind˙stria de roupas de tecido,SGPS3,ativo,07.718.269/0001-57,Novo Mercado
-573,SPturis,ON,31/12/2020,Outros serviÁos de apoio,AHEB3,ativo,62.002.886/0001-60,Tradicional
-574,Stara,ON,31/12/2020,Industria de m·quinas agrÌcolas  de construÁ„o e mineraÁ„o,STTR3,ativo,91.495.499/0001-00,Bovespa Mais
-575,Statkraft,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,STKF3,ativo,00.622.416/0001-41,Tradicional
-576,Sudeste,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,OPSE3B,ativo,02.062.747/0001-08,Balc„o Organizado
-577,Sugoi Incorporadora e Construtora S/A,ON,31/12/2020,ConstruÁ„o,23957 ON,ativo,13.584.310/0001-42,-
-578,Sul 116 Part,ON,31/12/2020,TelecomunicaÁıes,OPTS3B,ativo,01.957.772/0001-89,Balc„o Organizado
-579,Sul America,UNT N2,31/12/2020,Seguradora,SULA11,ativo,29.978.814/0001-87,NÌvel 2
-580,Sultepa,ON,31/12/2020,ConstruÁ„o de estradas  ruas  pontes e t˙neis,SULT3,cancelado,89.723.993/0001-33,Tradicional
-581,Suzano Hold,PNA,31/12/2020,AdministraÁ„o de empresas e empreendimentos,NEMO5,ativo,60.651.809/0001-05,Tradicional
-582,Suzano S.A.,ON,31/12/2020,Ind˙stria de papel  celulose e papel„o,SUZB3,ativo,16.404.287/0001-55,Novo Mercado
-583,Taesa,UNT N2,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,TAEE11,ativo,07.859.971/0001-30,NÌvel 2
-584,Taurus Armas,PN,31/12/2020,Outras ind˙strias de produtos de metal,TASA4,ativo,92.781.335/0001-02,NÌvel 2
-585,Tcp Terminal de ContÍineres de Paranagu· S/A,ON,31/12/2020,ServiÁo de armazenamento,24066 ON,ativo,12.919.786/0001-24,-
-586,Tec Blumenau,PNC,31/12/2020,Ind˙stria de roupas de tecido,TENE7,cancelado,08.424.178/0001-71,Tradicional
+568,Smart Fit,ON,31/12/2020,Outras ind√∫strias da recrea√ß√£o,SMFT3,ativo,07.594.978/0001-78,Bovespa Mais N√≠vel 2
+569,Smiles,ON,31/03/2021,Outros servi√ßos de apoio,SMLS3,ativo,05.730.375/0001-20,Novo Mercado
+570,Snb Participacoes S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,14303 ON,ativo,73.903.718/0001-61,-
+571,Sondotecnica,PNA,31/12/2020,Consultoria administrativa  cient√≠fica e t√©cnica,SOND5,ativo,33.386.210/0001-19,Tradicional
+572,Springs,ON,31/12/2020,Ind√∫stria de roupas de tecido,SGPS3,ativo,07.718.269/0001-57,Novo Mercado
+573,SPturis,ON,31/12/2020,Outros servi√ßos de apoio,AHEB3,ativo,62.002.886/0001-60,Tradicional
+574,Stara,ON,31/12/2020,Industria de m√°quinas agr√≠colas  de constru√ß√£o e minera√ß√£o,STTR3,ativo,91.495.499/0001-00,Bovespa Mais
+575,Statkraft,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,STKF3,ativo,00.622.416/0001-41,Tradicional
+576,Sudeste,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,OPSE3B,ativo,02.062.747/0001-08,Balc√£o Organizado
+577,Sugoi Incorporadora e Construtora S/A,ON,31/12/2020,Constru√ß√£o,23957 ON,ativo,13.584.310/0001-42,-
+578,Sul 116 Part,ON,31/12/2020,Telecomunica√ß√µes,OPTS3B,ativo,01.957.772/0001-89,Balc√£o Organizado
+579,Sul America,UNT N2,31/12/2020,Seguradora,SULA11,ativo,29.978.814/0001-87,N√≠vel 2
+580,Sultepa,ON,31/12/2020,Constru√ß√£o de estradas  ruas  pontes e t√∫neis,SULT3,cancelado,89.723.993/0001-33,Tradicional
+581,Suzano Hold,PNA,31/12/2020,Administra√ß√£o de empresas e empreendimentos,NEMO5,ativo,60.651.809/0001-05,Tradicional
+582,Suzano S.A.,ON,31/12/2020,Ind√∫stria de papel  celulose e papel√£o,SUZB3,ativo,16.404.287/0001-55,Novo Mercado
+583,Taesa,UNT N2,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,TAEE11,ativo,07.859.971/0001-30,N√≠vel 2
+584,Taurus Armas,PN,31/12/2020,Outras ind√∫strias de produtos de metal,TASA4,ativo,92.781.335/0001-02,N√≠vel 2
+585,Tcp Terminal de Cont√™ineres de Paranagu√° S/A,ON,31/12/2020,Servi√ßo de armazenamento,24066 ON,ativo,12.919.786/0001-24,-
+586,Tec Blumenau,PNC,31/12/2020,Ind√∫stria de roupas de tecido,TENE7,cancelado,08.424.178/0001-71,Tradicional
 587,Tecel S Jose,PN,31/12/2020,Tecelagens,SJOS4,cancelado,17.159.005/0001-64,Tradicional
-588,Technos,ON,31/12/2020,Outras ind˙strias,TECN3,ativo,09.295.063/0001-97,Novo Mercado
-589,Tecnisa,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,TCSA3,ativo,08.065.557/0001-12,Novo Mercado
-590,Tecnosolo,PN,31/12/2020,Consultoria administrativa  cientÌfica e tÈcnica,TCNO4,ativo,33.111.246/0001-90,Tradicional
+588,Technos,ON,31/12/2020,Outras ind√∫strias,TECN3,ativo,09.295.063/0001-97,Novo Mercado
+589,Tecnisa,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,TCSA3,ativo,08.065.557/0001-12,Novo Mercado
+590,Tecnosolo,PN,31/12/2020,Consultoria administrativa  cient√≠fica e t√©cnica,TCNO4,ativo,33.111.246/0001-90,Tradicional
 591,Tegma,ON,31/12/2020,Atividades auxiliares ao transporte,TGMA3,ativo,02.351.144/0001-18,Novo Mercado
-592,Teka,PN,31/12/2020,Ind˙stria de roupas de tecido,TEKA4,ativo,82.636.986/0001-55,Tradicional
-593,Tekno,PN,31/12/2020,Outras ind˙strias de produtos de metal,TKNO4,ativo,33.467.572/0001-34,Tradicional
-594,Telebras,PN,31/12/2020,TelecomunicaÁıes,TELB4,ativo,00.336.701/0001-04,Tradicional
-595,Telef Brasil,ON,31/12/2020,TelecomunicaÁıes,VIVT3,ativo,02.558.157/0001-62,Tradicional
-596,Tenda,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,TEND3,ativo,71.476.527/0001-35,Novo Mercado
-597,Termeletrica Pernambuco 3 SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,23329 ON,ativo,10.502.676/0001-37,-
-598,Terminais Port da Ponta Felix S/A,ON,31/12/2020,Atividades auxiliares ao transporte aqu·tico,15407 ON,ativo,85.041.333/0001-11,-
-599,Termopernambuco S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,19852 ON,ativo,03.795.050/0001-09,-
-600,Terra Santa,ON,31/12/2020,Outras outras ind˙strias,TESA3,ativo,05.799.312/0001-20,Novo Mercado
+592,Teka,PN,31/12/2020,Ind√∫stria de roupas de tecido,TEKA4,ativo,82.636.986/0001-55,Tradicional
+593,Tekno,PN,31/12/2020,Outras ind√∫strias de produtos de metal,TKNO4,ativo,33.467.572/0001-34,Tradicional
+594,Telebras,PN,31/12/2020,Telecomunica√ß√µes,TELB4,ativo,00.336.701/0001-04,Tradicional
+595,Telef Brasil,ON,31/12/2020,Telecomunica√ß√µes,VIVT3,ativo,02.558.157/0001-62,Tradicional
+596,Tenda,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,TEND3,ativo,71.476.527/0001-35,Novo Mercado
+597,Termeletrica Pernambuco 3 SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,23329 ON,ativo,10.502.676/0001-37,-
+598,Terminais Port da Ponta Felix S/A,ON,31/12/2020,Atividades auxiliares ao transporte aqu√°tico,15407 ON,ativo,85.041.333/0001-11,-
+599,Termopernambuco S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,19852 ON,ativo,03.795.050/0001-09,-
+600,Terra Santa,ON,31/12/2020,Outras outras ind√∫strias,TESA3,ativo,05.799.312/0001-20,Novo Mercado
 601,Tex Renaux,PN,31/12/2020,Tecelagens,TXRX4,ativo,82.982.075/0001-80,Tradicional
-602,Tim,ON,31/12/2020,TelecomunicaÁıes,TIMS3,ativo,02.421.421/0001-11,Novo Mercado
-603,Time For Fun,ON,31/12/2020,ApresentaÁıes artÌsticas,SHOW3,ativo,02.860.694/0001-62,Novo Mercado
+602,Tim,ON,31/12/2020,Telecomunica√ß√µes,TIMS3,ativo,02.421.421/0001-11,Novo Mercado
+603,Time For Fun,ON,31/12/2020,Apresenta√ß√µes art√≠sticas,SHOW3,ativo,02.860.694/0001-62,Novo Mercado
 604,Totvs,ON,31/12/2020,Editoras de software,TOTS3,ativo,53.113.791/0001-22,Novo Mercado
-605,Track Field,PN,31/12/2020,Loja de roupas,TFCO4,ativo,59.418.806/0001-47,NÌvel 2
-606,Tran Paulist,PN,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,TRPL4,ativo,02.998.611/0001-04,NÌvel 1
-607,Transbrasiliana Concess de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22225 ON,ativo,09.074.183/0001-64,-
-608,Transnordestina Logistica S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,20443 ON,ativo,02.281.836/0001-37,-
-609,Travessia Sec de Cred Financeiros XIV S/A,ON,31/12/2020,ServiÁos financeiros e seguros,25240 ON,ativo,38.042.694/0001-00,-
-610,Travessia Securitizadora S/A,ON,31/12/2020,ServiÁos financeiros e seguros,24082 ON,ativo,26.609.050/0001-64,-
-611,Trevisa,PN,31/12/2020,AdministraÁ„o de empresas e empreendimentos,LUXM4,ativo,92.660.570/0001-26,Tradicional
-612,Triangulo do Sol Auto Estrada SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,23060 ON,ativo,02.509.186/0001-34,-
-613,Triple Play Brasil ParticipaÁıes S/A,ON,31/12/2020,TelecomunicaÁıes,25194 ON,ativo,23.438.929/0001-00,-
-614,Trisul,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,TRIS3,ativo,08.811.643/0001-27,Novo Mercado
-615,Triunfo Part,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,TPIS3,ativo,03.014.553/0001-91,Novo Mercado
-616,Trx Sec de Cred Imob S/A,ON,31/12/2020,ServiÁos financeiros e seguros,22420 ON,ativo,11.716.471/0001-17,-
-617,Tupy,ON,31/12/2020,Ind˙stria de autopeÁas,TUPY3,ativo,84.683.374/0001-49,Novo Mercado
-618,Ultrapar,ON,31/12/2020,ComÈrcio atacadista de petrÛleo e produtos de petrÛleo,UGPA3,ativo,33.256.439/0001-39,Novo Mercado
-619,Unicasa,ON,31/12/2020,Ind˙stria de mÛveis e afins,UCAS3,ativo,90.441.460/0001-48,Novo Mercado
-620,Unidas SA,ON,31/12/2020,Locadora de automÛveis,21555 ON,ativo,04.437.534/0001-30,-
-621,Unipar,PNB,31/12/2020,Ind˙stria quÌmica,UNIP6,ativo,33.958.695/0001-78,Tradicional
-622,Up Engenharia e Urbanismo S/A,ON,30/06/2020,ConstruÁ„o de edifÌcios residenciais,24856 ON,ativo,34.591.574/0001-01,-
-623,Uptick,ON,31/12/2020,Empresa de eletricidade  g·s e ·gua,UPKP3B,ativo,02.162.616/0001-94,Balc„o Organizado
-624,Urba Desenvolvimento Urbano S/A,ON,31/12/2020,ConstruÁ„o,25437 ON,ativo,10.571.175/0001-02,-
-625,Usiminas,PNA,31/03/2021,TransformaÁ„o de aÁo em produtos de aÁo,USIM5,ativo,60.894.730/0001-05,NÌvel 1
-626,Usina TermelÈtrica Pampa Sul S/A,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24945 ON,ativo,04.739.720/0001-24,-
-627,Vale,ON,31/03/2021,MineraÁ„o de metais,VALE3,ativo,33.592.510/0001-54,Novo Mercado
-628,Valid,ON,31/12/2020,Impress„o e atividades auxiliares,VLID3,ativo,33.113.309/0001-47,Novo Mercado
-629,Vamos,ON,31/03/2021,ServiÁos de locaÁ„o e leasing,VAMO3,ativo,23.373.000/0001-32,Novo Mercado
-630,Ventos do Sul Energia SA,ON,31/12/2020,GeraÁ„o  transmiss„o e distribuiÁ„o de energia elÈtrica,24767 ON,ativo,06.016.348/0001-53,-
-631,Venture Capital ParticipaÁıes e Investimentos S/A,ON,30/09/2019,AdministraÁ„o de empresas e empreendimentos,24309 ON,ativo,24.241.659/0001-06,-
-632,Vert Companhia Securitizadora,ON,31/12/2020,ServiÁos financeiros e seguros,23990 ON,ativo,25.005.683/0001-09,-
-633,Viabahia Conc de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22926 ON,ativo,10.670.314/0001-55,-
-634,Viapaulista S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,25607 ON,ativo,28.019.100/0001-89,-
-635,Viarondon Conc de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi·rio,22543 ON,ativo,10.635.691/0001-53,-
+605,Track Field,PN,31/12/2020,Loja de roupas,TFCO4,ativo,59.418.806/0001-47,N√≠vel 2
+606,Tran Paulist,PN,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,TRPL4,ativo,02.998.611/0001-04,N√≠vel 1
+607,Transbrasiliana Concess de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22225 ON,ativo,09.074.183/0001-64,-
+608,Transnordestina Logistica S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,20443 ON,ativo,02.281.836/0001-37,-
+609,Travessia Sec de Cred Financeiros XIV S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,25240 ON,ativo,38.042.694/0001-00,-
+610,Travessia Securitizadora S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,24082 ON,ativo,26.609.050/0001-64,-
+611,Trevisa,PN,31/12/2020,Administra√ß√£o de empresas e empreendimentos,LUXM4,ativo,92.660.570/0001-26,Tradicional
+612,Triangulo do Sol Auto Estrada SA,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,23060 ON,ativo,02.509.186/0001-34,-
+613,Triple Play Brasil Participa√ß√µes S/A,ON,31/12/2020,Telecomunica√ß√µes,25194 ON,ativo,23.438.929/0001-00,-
+614,Trisul,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,TRIS3,ativo,08.811.643/0001-27,Novo Mercado
+615,Triunfo Part,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,TPIS3,ativo,03.014.553/0001-91,Novo Mercado
+616,Trx Sec de Cred Imob S/A,ON,31/12/2020,Servi√ßos financeiros e seguros,22420 ON,ativo,11.716.471/0001-17,-
+617,Tupy,ON,31/12/2020,Ind√∫stria de autope√ßas,TUPY3,ativo,84.683.374/0001-49,Novo Mercado
+618,Ultrapar,ON,31/12/2020,Com√©rcio atacadista de petr√≥leo e produtos de petr√≥leo,UGPA3,ativo,33.256.439/0001-39,Novo Mercado
+619,Unicasa,ON,31/12/2020,Ind√∫stria de m√≥veis e afins,UCAS3,ativo,90.441.460/0001-48,Novo Mercado
+620,Unidas SA,ON,31/12/2020,Locadora de autom√≥veis,21555 ON,ativo,04.437.534/0001-30,-
+621,Unipar,PNB,31/12/2020,Ind√∫stria qu√≠mica,UNIP6,ativo,33.958.695/0001-78,Tradicional
+622,Up Engenharia e Urbanismo S/A,ON,30/06/2020,Constru√ß√£o de edif√≠cios residenciais,24856 ON,ativo,34.591.574/0001-01,-
+623,Uptick,ON,31/12/2020,Empresa de eletricidade  g√°s e √°gua,UPKP3B,ativo,02.162.616/0001-94,Balc√£o Organizado
+624,Urba Desenvolvimento Urbano S/A,ON,31/12/2020,Constru√ß√£o,25437 ON,ativo,10.571.175/0001-02,-
+625,Usiminas,PNA,31/03/2021,Transforma√ß√£o de a√ßo em produtos de a√ßo,USIM5,ativo,60.894.730/0001-05,N√≠vel 1
+626,Usina Termel√©trica Pampa Sul S/A,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24945 ON,ativo,04.739.720/0001-24,-
+627,Vale,ON,31/03/2021,Minera√ß√£o de metais,VALE3,ativo,33.592.510/0001-54,Novo Mercado
+628,Valid,ON,31/12/2020,Impress√£o e atividades auxiliares,VLID3,ativo,33.113.309/0001-47,Novo Mercado
+629,Vamos,ON,31/03/2021,Servi√ßos de loca√ß√£o e leasing,VAMO3,ativo,23.373.000/0001-32,Novo Mercado
+630,Ventos do Sul Energia SA,ON,31/12/2020,Gera√ß√£o  transmiss√£o e distribui√ß√£o de energia el√©trica,24767 ON,ativo,06.016.348/0001-53,-
+631,Venture Capital Participa√ß√µes e Investimentos S/A,ON,30/09/2019,Administra√ß√£o de empresas e empreendimentos,24309 ON,ativo,24.241.659/0001-06,-
+632,Vert Companhia Securitizadora,ON,31/12/2020,Servi√ßos financeiros e seguros,23990 ON,ativo,25.005.683/0001-09,-
+633,Viabahia Conc de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22926 ON,ativo,10.670.314/0001-55,-
+634,Viapaulista S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,25607 ON,ativo,28.019.100/0001-89,-
+635,Viarondon Conc de Rodov S/A,ON,31/12/2020,Atividades auxiliares ao transporte rodovi√°rio,22543 ON,ativo,10.635.691/0001-53,-
 636,Viavarejo,ON,31/12/2020,Loja de departamentos,VVAR3,ativo,33.041.260/0652-90,Novo Mercado
-637,Vision Securitizadora,ON,31/12/2020,ServiÁos financeiros e seguros,21075 ON,ativo,08.937.002/0001-13,-
-638,Vivara S.A.,ON,31/12/2020,Loja de jÛias  malas e artigos de couro,VIVA3,ativo,33.839.910/0001-11,Novo Mercado
-639,Viver,ON,31/12/2020,ConstruÁ„o de edifÌcios residenciais,VIVR3,ativo,67.571.414/0001-41,Novo Mercado
-640,Vix Logistica S/A,ON,31/12/2020,Transporte rodovi·rio,21202 ON,ativo,32.681.371/0001-72,-
-641,Vulcabras,ON,31/12/2020,Ind˙stria de calÁados,VULC3,ativo,50.926.955/0001-42,Novo Mercado
-642,Weg,ON,31/03/2021,Ind˙stria de motores  turbinas e transmissores de energia,WEGE3,ativo,84.429.695/0001-11,Novo Mercado
-643,Westwing,ON,31/12/2020,ComÈrcio atacadista de bens dur·veis,WEST3,ativo,14.776.142/0001-50,Novo Mercado
-644,Wetzel S/A,PN,31/12/2020,Ind˙stria de autopeÁas,MWET4,ativo,84.683.671/0001-94,Tradicional
-645,Whirlpool,PN,31/12/2020,Ind˙stria de eletrodomÈsticos,WHRL4,ativo,59.105.999/0001-86,Tradicional
+637,Vision Securitizadora,ON,31/12/2020,Servi√ßos financeiros e seguros,21075 ON,ativo,08.937.002/0001-13,-
+638,Vivara S.A.,ON,31/12/2020,Loja de j√≥ias  malas e artigos de couro,VIVA3,ativo,33.839.910/0001-11,Novo Mercado
+639,Viver,ON,31/12/2020,Constru√ß√£o de edif√≠cios residenciais,VIVR3,ativo,67.571.414/0001-41,Novo Mercado
+640,Vix Logistica S/A,ON,31/12/2020,Transporte rodovi√°rio,21202 ON,ativo,32.681.371/0001-72,-
+641,Vulcabras,ON,31/12/2020,Ind√∫stria de cal√ßados,VULC3,ativo,50.926.955/0001-42,Novo Mercado
+642,Weg,ON,31/03/2021,Ind√∫stria de motores  turbinas e transmissores de energia,WEGE3,ativo,84.429.695/0001-11,Novo Mercado
+643,Westwing,ON,31/12/2020,Com√©rcio atacadista de bens dur√°veis,WEST3,ativo,14.776.142/0001-50,Novo Mercado
+644,Wetzel S/A,PN,31/12/2020,Ind√∫stria de autope√ßas,MWET4,ativo,84.683.671/0001-94,Tradicional
+645,Whirlpool,PN,31/12/2020,Ind√∫stria de eletrodom√©sticos,WHRL4,ativo,59.105.999/0001-86,Tradicional
 646,Wiz S.A,ON,31/12/2020,Corretora de seguros,WIZS3,ativo,42.278.473/0001-03,Novo Mercado
-647,Wlm Ind Com,PN,31/12/2020,Concession·rias de outros veÌculos motorizados,WLMM4,ativo,33.228.024/0001-51,Tradicional
+647,Wlm Ind Com,PN,31/12/2020,Concession√°rias de outros ve√≠culos motorizados,WLMM4,ativo,33.228.024/0001-51,Tradicional
 648,Wtc Amazonas Suite Hotel S/A,ON,31/12/2020,Hotel  motel ou similar,15741 ON,ativo,01.319.044/0001-41,-
-649,Wtc Rio Empreend e Part S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,16551 ON,ativo,01.989.044/0001-59,-
-650,Xx de Nov Inv e Part S/A,ON,31/12/2020,AdministraÁ„o de empresas e empreendimentos,20001 ON,ativo,03.538.833/0001-07,-
+649,Wtc Rio Empreend e Part S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,16551 ON,ativo,01.989.044/0001-59,-
+650,Xx de Nov Inv e Part S/A,ON,31/12/2020,Administra√ß√£o de empresas e empreendimentos,20001 ON,ativo,03.538.833/0001-07,-
 651,Yduqs Part,ON,31/12/2020,Escola de ensino superior,YDUQ3,ativo,08.807.432/0001-10,Novo Mercado
-652,You Inc Incorp e Part S/A,ON,31/12/2020,ConstruÁ„o,23604 ON,ativo,11.284.204/0001-18,-
+652,You Inc Incorp e Part S/A,ON,31/12/2020,Constru√ß√£o,23604 ON,ativo,11.284.204/0001-18,-
